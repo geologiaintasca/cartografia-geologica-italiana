@@ -130,11 +130,6 @@
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.8,36.4],[17.3,36.4],[17.3,40.1],[15.8,40.1],[15.8,36.4]]]}, "properties": {"title": "Geothermal resources Calabria", "doi": "10.1080/17445647.2006.1735678", "area": "Calabria", "year": 2006, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2006.1735678"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[12.0,36.6],[15.7,36.6],[15.7,38.8],[12.0,38.8],[12.0,36.6]]]}, "properties": {"title": "Mineral resources Sicily", "doi": "10.1080/17445647.2006.1746789", "area": "Sicily", "year": 2006, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2006.1746789"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[6.6,44.0],[8.8,44.0],[8.8,46.5],[6.6,46.5],[6.6,44.0]]]}, "properties": {"title": "Hydrothermal vents Piedmont", "doi": "10.1080/17445647.2005.1757890", "area": "Piedmont", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647
-{
-  "type": "FeatureCollection",
-  "name": "Journal of Maps Italy - PART 6",
-  "crs": {"type": "name", "properties": {"name": "urn:ogc:def:crs:EPSG::4326"}},
-  "features": [
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.8,45.2],[12.2,45.2],[12.2,46.0],[10.8,46.0],[10.8,45.2]]]}, "properties": {"title": "Seismic monitoring Friuli-Venezia Giulia", "doi": "10.1080/17445647.2005.1768901", "area": "Friuli-Venezia Giulia", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1768901"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[9.5,45.8],[10.0,45.8],[10.0,46.1],[9.5,46.1],[9.5,45.8]]]}, "properties": {"title": "Earthquake frequency Lombardy", "doi": "10.1080/17445647.2005.1779012", "area": "Lombardy", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1779012"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[13.0,41.8],[14.7,41.8],[14.7,43.1],[13.0,43.1],[13.0,41.8]]]}, "properties": {"title": "Tsunami hazards Abruzzi", "doi": "10.1080/17445647.2005.1780123", "area": "Abruzzi", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1780123"}},
@@ -213,6 +208,7 @@
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.0,40.7],[14.3,40.7],[14.3,40.9],[14.0,40.9],[14.0,40.7]]]}, "properties": {"title": "Beach resorts Campania", "doi": "10.1080/17445647.2005.2423456", "area": "Campania", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2423456"}}
   ]
 }
+
 
 
 
