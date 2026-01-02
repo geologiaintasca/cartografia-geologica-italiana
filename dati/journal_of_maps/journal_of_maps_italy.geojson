@@ -198,10 +198,3 @@
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.0,40.7],[14.3,40.7],[14.3,40.9],[14.0,40.9],[14.0,40.7]]]}, "properties": {"title": "Beach resorts Campania", "doi": "10.1080/17445647.2005.2423456", "area": "Campania", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2423456"}}
   ]
 }
-
-
-
-
-
-
-
