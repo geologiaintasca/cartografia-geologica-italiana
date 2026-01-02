@@ -1,7 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "Journal of Maps Italy - PART 1",
-  "crs": {"type": "name", "properties": {"name": "urn:ogc:def:crs:EPSG::4326"}},
+  "name": "Journal of Maps Italy",
   "features": [
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.6,39.8],[16.7,39.8],[16.7,40.9],[15.6,40.9],[15.6,39.8]]]}, "properties": {"title": "Landscape planning regional-scale mapping geolithological units Southern Italy", "doi": "10.1080/17445647.2024.2303335", "area": "Basilicata", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2303335"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[8.7,40.5],[9.3,40.5],[9.3,41.2],[8.7,41.2],[8.7,40.5]]]}, "properties": {"title": "Geohazard features Northern Sardinia", "doi": "10.1080/17445647.2024.2357356", "area": "Northern Sardinia", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2357356"}},
@@ -235,4 +234,5 @@
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.0,40.7],[14.3,40.7],[14.3,40.9],[14.0,40.9],[14.0,40.7]]]}, "properties": {"title": "Beach resorts Campania", "doi": "10.1080/17445647.2005.2423456", "area": "Campania", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2423456"}}
   ]
 }
+
 
