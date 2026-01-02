@@ -115,8 +115,8 @@
       },
       "properties": {
         "Title": "Geological map of the northeastern sector of the high Agri Valley",
-        "DOI": "10.1080/17445647.2012.735932",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2012.735932",
+        "DOI": "10.1080/17445647.2012.722403",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2012.722403",
         "Location_Query": "Agri Valley"
       }
     },
@@ -421,8 +421,8 @@
       },
       "properties": {
         "Title": "The geological map of Sardinia (Italy) at 1:250,000 scale",
-        "DOI": "10.1080/17445647.2016.1261834",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2016.1261834",
+        "DOI": "10.1080/17445647.2015.1084544",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1084544",
         "Location_Query": "Sardinia"
       }
     },
@@ -458,6 +458,159 @@
         "DOI": "10.1080/17445647.2019.1592718",
         "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2019.1592718",
         "Location_Query": "Mount Serrone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [9.5, 45.9], [10.2, 45.9], [10.2, 46.1], [9.5, 46.1], [9.5, 45.9]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Geology of the Arera-Vedra Valley mining area (Gorno district, Orobic Alps, Italy)",
+        "DOI": "10.1080/17445647.2024.2422545",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2422545",
+        "Location_Query": "Orobic Alps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [14.8, 36.6], [15.2, 36.6], [15.2, 37.0], [14.8, 37.0], [14.8, 36.6]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Geological map of the Tellaro River Valley (Hyblean Foreland, southeastern Sicily, Italy)",
+        "DOI": "10.1080/17445647.2014.944878",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.944878",
+        "Location_Query": "SE Sicily"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [13.2, 38.1], [13.4, 38.1], [13.4, 38.2], [13.2, 38.2], [13.2, 38.1]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Geology of Monte Gallo (Palermo Mts, NW Sicily)",
+        "DOI": "10.1080/17445647.2015.1124716",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1124716",
+        "Location_Query": "Palermo Mts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [8.2, 40.5], [9.8, 40.5], [9.8, 41.3], [8.2, 41.3], [8.2, 40.5]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Structural map of Variscan northern Sardinia (Italy)",
+        "DOI": "10.1080/17445647.2014.935371",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.935371",
+        "Location_Query": "Northern Sardinia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [11.2, 43.3], [11.5, 43.3], [11.5, 43.6], [11.2, 43.6], [11.2, 43.3]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Geological map of the Chianti Mts (Northern Apennines, Italy)",
+        "DOI": "10.1080/17445647.2012.668423",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2012.668423",
+        "Location_Query": "Chianti Mts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.7, 45.7], [7.9, 45.7], [7.9, 45.9], [7.7, 45.9], [7.7, 45.7]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Geological map of the upper Gressoney Valley, Western Italian Alps",
+        "DOI": "10.4113/jom.2010.1121",
+        "URL": "https://www.tandfonline.com/doi/full/10.4113/jom.2010.1121",
+        "Location_Query": "Gressoney Valley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.0, 44.6], [7.2, 44.6], [7.2, 44.8], [7.0, 44.8], [7.0, 44.6]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Geological map of the Monviso massif (Western Alps)",
+        "DOI": "10.1080/17445647.2013.842511",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.842511",
+        "Location_Query": "Monviso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.3, 45.4], [7.6, 45.4], [7.6, 45.5], [7.3, 45.5], [7.3, 45.4]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Geological map of the middle Orco Valley, Western Italian Alps",
+        "DOI": "10.4113/jom.2010.1121",
+        "URL": "https://www.tandfonline.com/doi/full/10.4113/jom.2010.1121",
+        "Location_Query": "Orco Valley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.5, 45.6], [7.7, 45.6], [7.7, 45.7], [7.5, 45.7], [7.5, 45.6]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Geological map of the Mount Avic massif (Western Alps Ophiolites)",
+        "DOI": "10.1080/17445647.2015.1027015",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1027015",
+        "Location_Query": "Mount Avic"
       }
     }
   ]
