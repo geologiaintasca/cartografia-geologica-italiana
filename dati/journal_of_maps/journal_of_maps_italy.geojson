@@ -156,11 +156,6 @@
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[7.5,43.8],[9.8,43.8],[9.8,44.7],[7.5,44.7],[7.5,43.8]]]}, "properties": {"title": "Accessibility Liguria", "doi": "10.1080/17445647.2005.1991234", "area": "Liguria", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1991234"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[8.3,38.8],[9.8,38.8],[9.8,41.2],[8.3,41.2],[8.3,38.8]]]}, "properties": {"title": "Population density Sardinia", "doi": "10.1080/17445647.2005.2002345", "area": "Sardinia", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2002345"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.6,39.8],[16.7,39.8],[16.7,40.9],[15.6,40.9],[15.6,39.8]]]}, "properties": {"title": "Demographics Basilicata", "doi": "10.1080/17445647.2005.2013456", "area": "Basilicata", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2
-{
-  "type": "FeatureCollection",
-  "name": "Journal of Maps Italy - PART 7",
-  "crs": {"type": "name", "properties": {"name": "urn:ogc:def:crs:EPSG::4326"}},
-  "features": [
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.3,42.0],[12.0,42.0],[12.0,44.1],[10.3,44.1],[10.3,42.0]]]}, "properties": {"title": "Employment patterns Tuscany", "doi": "10.1080/17445647.2005.2024567", "area": "Tuscany", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2024567"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.8,36.4],[17.3,36.4],[17.3,40.1],[15.8,40.1],[15.8,36.4]]]}, "properties": {"title": "Economic zones Calabria", "doi": "10.1080/17445647.2005.2035678", "area": "Calabria", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2035678"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[12.0,36.6],[15.7,36.6],[15.7,38.8],[12.0,38.8],[12.0,36.6]]]}, "properties": {"title": "Trade routes Sicily", "doi": "10.1080/17445647.2005.2046789", "area": "Sicily", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2046789"}},
@@ -208,6 +203,7 @@
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.0,40.7],[14.3,40.7],[14.3,40.9],[14.0,40.9],[14.0,40.7]]]}, "properties": {"title": "Beach resorts Campania", "doi": "10.1080/17445647.2005.2423456", "area": "Campania", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2423456"}}
   ]
 }
+
 
 
 
