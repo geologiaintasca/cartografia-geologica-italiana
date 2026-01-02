@@ -1,200 +1,464 @@
 {
   "type": "FeatureCollection",
-  "name": "Journal of Maps Italy",
   "features": [
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.6,39.8],[16.7,39.8],[16.7,40.9],[15.6,40.9],[15.6,39.8]]]}, "properties": {"title": "Landscape planning regional-scale mapping geolithological units Southern Italy", "doi": "10.1080/17445647.2024.2303335", "area": "Basilicata", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2303335"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[8.7,40.5],[9.3,40.5],[9.3,41.2],[8.7,41.2],[8.7,40.5]]]}, "properties": {"title": "Geohazard features Northern Sardinia", "doi": "10.1080/17445647.2024.2357356", "area": "Northern Sardinia", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2357356"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[9.3,39.5],[9.8,39.5],[9.8,41.0],[9.3,41.0],[9.3,39.5]]]}, "properties": {"title": "Geohazard features Eastern Sardinia", "doi": "10.1080/17445647.2024.2343316", "area": "Eastern Sardinia", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2343316"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[8.3,39.0],[9.0,39.0],[9.0,40.8],[8.3,40.8],[8.3,39.0]]]}, "properties": {"title": "Geohazard features western Sardinia", "doi": "10.1080/17445647.2024.2347890", "area": "Western Sardinia", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2347890"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.0,40.7],[14.3,40.7],[14.3,40.9],[14.0,40.9],[14.0,40.7]]]}, "properties": {"title": "Bathymetry topography Campi Flegrei Southern Italy", "doi": "10.1080/17445647.2024.2404873", "area": "Campi Flegrei", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2404873"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[16.3,39.1],[16.7,39.1],[16.7,39.6],[16.3,39.6],[16.3,39.1]]]}, "properties": {"title": "Geoheritage Sila National Park Northern Calabria", "doi": "10.1080/17445647.2024.2411787", "area": "Sila National Park", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2411787"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.4,39.8],[18.8,39.8],[18.8,42.1],[15.4,42.1],[15.4,39.8]]]}, "properties": {"title": "Geohazard features Central Apulia", "doi": "10.1080/17445647.2024.2429707", "area": "Central Apulia", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2429707"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[8.2,41.0],[8.5,41.0],[8.5,41.2],[8.2,41.2],[8.2,41.0]]]}, "properties": {"title": "Geology Asinara Island Sardinia", "doi": "10.1080/17445647.2024.2317136", "area": "Asinara Island", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2317136"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[13.7,40.3],[14.0,40.3],[14.0,40.5],[13.7,40.5],[13.7,40.3]]]}, "properties": {"title": "Geohydrologic units Ischia Island Campania", "doi": "10.1080/17445647.2024.2317142", "area": "Ischia Island", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2317142"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.2,38.8],[15.5,38.8],[15.5,39.0],[15.2,39.0],[15.2,38.8]]]}, "properties": {"title": "Linosa island Mediterranean biodiversity", "doi": "10.1080/17445647.2023.2297989", "area": "Linosa Island", "year": 2023, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2023.2297989"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.6,39.8],[16.7,39.8],[16.7,40.9],[15.6,40.9],[15.6,39.8]]]}, "properties": {"title": "Map vineyards Basilicata Southern Italy", "doi": "10.1080/17445647.2024.2327859", "area": "Basilicata", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2327859"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[6.6,44.0],[8.8,44.0],[8.8,46.5],[6.6,46.5],[6.6,44.0]]]}, "properties": {"title": "Hydrogeochemistry Po Plain Piedmont Italy", "doi": "10.1080/17445647.2024.2329164", "area": "Piedmont", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2329164"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[12.0,36.6],[15.7,36.6],[15.7,38.8],[12.0,38.8],[12.0,36.6]]]}, "properties": {"title": "Geohazard northwest Sicily Pantelleria", "doi": "10.1080/17445647.2024.2342931", "area": "Sicily", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2342931"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.5,37.2],[15.5,37.2],[15.5,38.0],[14.5,38.0],[14.5,37.2]]]}, "properties": {"title": "Aeolian Island slopes NE Sicily offshore", "doi": "10.1080/17445647.2024.2343314", "area": "Sicily", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2343314"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.0,37.6],[15.7,37.6],[15.7,37.9],[15.0,37.9],[15.0,37.6]]]}, "properties": {"title": "One hundred lava flows Mt Etna Italy 2019-2023", "doi": "10.1080/17445647.2024.2380899", "area": "Mount Etna", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2380899"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[11.0,42.5],[12.0,42.5],[12.0,43.5],[11.0,43.5],[11.0,42.5]]]}, "properties": {"title": "Geology Pleistocene volcano Monte Amiata Tuscany", "doi": "10.1080/17445647.2024.2360749", "area": "Tuscany", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2360749"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[7.5,43.8],[9.8,43.8],[9.8,44.7],[7.5,44.7],[7.5,43.8]]]}, "properties": {"title": "Geohazard features Ligurian Sea", "doi": "10.1080/17445647.2024.2342920", "area": "Liguria", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2342920"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[6.6,35.3],[18.8,35.3],[18.8,47.1],[6.6,47.1],[6.6,35.3]]]}, "properties": {"title": "Geodiversity of Italy", "doi": "10.1080/17445647.2024.2340988", "area": "Italy", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2340988"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[11.8,42.4],[13.6,42.4],[13.6,43.5],[11.8,43.5],[11.8,42.4]]]}, "properties": {"title": "Dual-proxy Vs30 Marche Region central Italy", "doi": "10.1080/17445647.2024.2349787", "area": "Marche", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2349787"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.8,36.4],[17.3,36.4],[17.3,40.1],[15.8,40.1],[15.8,36.4]]]}, "properties": {"title": "Seismotectonics landslides Calabrian Arc Southern Italy", "doi": "10.1080/17445647.2024.2347901", "area": "Calabria", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2347901"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.8,36.4],[17.3,36.4],[17.3,40.1],[15.8,40.1],[15.8,36.4]]]}, "properties": {"title": "Geohazard Ionian Calabrian Margin", "doi": "10.1080/17445647.2024.2349785", "area": "Calabria", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2349785"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.8,36.4],[17.3,36.4],[17.3,40.1],[15.8,40.1],[15.8,36.4]]]}, "properties": {"title": "Geohazard Tyrrhenian Calabria", "doi": "10.1080/17445647.2024.2347897", "area": "Calabria", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2347897"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[8.3,38.8],[9.8,38.8],[9.8,40.0],[8.3,40.0],[8.3,38.8]]]}, "properties": {"title": "Geohazard Southern Sardinia", "doi": "10.1080/17445647.2024.2375093", "area": "Sardinia", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2375093"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[12.0,37.5],[14.5,37.5],[14.5,40.5],[12.0,40.5],[12.0,37.5]]]}, "properties": {"title": "Geohazard Central-Southern Tyrrhenian seamounts", "doi": "10.1080/17445647.2024.2359973", "area": "Tyrrhenian", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2359973"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[13.0,40.0],[15.0,40.0],[15.0,41.5],[13.0,41.5],[13.0,40.0]]]}, "properties": {"title": "Geohazard Gulf Naples Pontine Islands", "doi": "10.1080/17445647.2024.2378935", "area": "Campania", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2378935"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[16.5,39.5],[18.0,39.5],[18.0,41.0],[16.5,41.0],[16.5,39.5]]]}, "properties": {"title": "Geohazard Gulf Taranto", "doi": "10.1080/17445647.2024.2431073", "area": "Apulia", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2431073"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[13.3,41.8],[13.6,41.8],[13.6,42.1],[13.3,42.1],[13.3,41.8]]]}, "properties": {"title": "Quaternary morpho-stratigraphic Campo Imperatore Gran Sasso Apennines", "doi": "10.1080/17445647.2024.2392853", "area": "Apennines", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2392853"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[6.8,45.0],[7.8,45.0],[7.8,45.4],[6.8,45.4],[6.8,45.0]]]}, "properties": {"title": "Subsurface geology Torino metropolitan Po Plain Piedmont", "doi": "10.1080/17445647.2024.2391963", "area": "Piedmont", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2391963"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[11.0,45.5],[12.5,45.5],[12.5,46.5],[11.0,46.5],[11.0,45.5]]]}, "properties": {"title": "Debris flows Dolomites Italy", "doi": "10.1080/17445647.2024.2307549", "area": "Dolomites", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2307549"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[9.5,45.8],[10.0,45.8],[10.0,46.1],[9.5,46.1],[9.5,45.8]]]}, "properties": {"title": "Geology Arera-Vedra Valley Orobic Alps Italy", "doi": "10.1080/17445647.2024.2422545", "area": "Orobic Alps", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2422545"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.3,44.0],[10.8,44.0],[10.8,44.3],[10.3,44.3],[10.3,44.0]]]}, "properties": {"title": "Debris-flow channels Alpe Succiso Northern Apennines Italy", "doi": "10.1080/17445647.2024.2422549", "area": "Apennines", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2422549"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[8.7,40.5],[9.3,40.5],[9.3,41.2],[8.7,41.2],[8.7,40.5]]]}, "properties": {"title": "Structural map Variscan northern Sardinia Italy", "doi": "10.1080/17445647.2011.593456", "area": "Sardinia", "year": 2011, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2011.593456"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.8,37.6],[16.2,37.6],[16.2,37.9],[15.8,37.9],[15.8,37.6]]]}, "properties": {"title": "Tectono-metamorphic map Aspromonte Massif Calabria", "doi": "10.1080/17445647.2011.593457", "area": "Calabria", "year": 2011, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2011.593457"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.3,42.0],[12.0,42.0],[12.0,44.1],[10.3,44.1],[10.3,42.0]]]}, "properties": {"title": "Geological map Tuscany Italy", "doi": "10.1080/17445647.2013.843210", "area": "Tuscany", "year": 2013, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.843210"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.8,40.2],[16.4,40.2],[16.4,40.8],[15.8,40.8],[15.8,40.2]]]}, "properties": {"title": "Geomorphology Agri intermontane basin Basilicata", "doi": "10.1080/17445647.2016.1158596", "area": "Basilicata", "year": 2016, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2016.1158596"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[8.7,40.5],[9.3,40.5],[9.3,41.2],[8.7,41.2],[8.7,40.5]]]}, "properties": {"title": "Mediterranean beach systems Posidonia oceanica Northern Sardinia", "doi": "10.1080/17445647.2017.1356789", "area": "Sardinia", "year": 2017, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2017.1356789"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[16.0,40.0],[16.4,40.0],[16.4,40.4],[16.0,40.4],[16.0,40.0]]]}, "properties": {"title": "Landslide inventory upper Sinni River valley Southern Italy", "doi": "10.1080/17445647.2015.1009792", "area": "Basilicata", "year": 2015, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1009792"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[8.3,38.8],[9.8,38.8],[9.8,41.2],[8.3,41.2],[8.3,38.8]]]}, "properties": {"title": "Geological map Sardinia 1:250,000 scale", "doi": "10.1080/17445647.2015.1084544", "area": "Sardinia", "year": 2015, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1084544"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[8.3,38.8],[9.8,38.8],[9.8,41.2],[8.3,41.2],[8.3,38.8]]]}, "properties": {"title": "Bioclimate classification map Sardinia", "doi": "10.1080/17445647.2015.1008183", "area": "Sardinia", "year": 2015, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1008183"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[16.5,40.3],[16.8,40.3],[16.8,40.5],[16.5,40.5],[16.5,40.3]]]}, "properties": {"title": "Geomorphology Craco-Pisticci area Basilicata", "doi": "10.1080/17445647.2014.904347", "area": "Basilicata", "year": 2014, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.904347"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[12.0,44.5],[12.5,44.5],[12.5,45.0],[12.0,45.0],[12.0,44.5]]]}, "properties": {"title": "Alluvial deposits map Po delta Emilia-Romagna", "doi": "10.1080/17445647.2014.905456", "area": "Emilia-Romagna", "year": 2014, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.905456"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[13.0,41.8],[14.7,41.8],[14.7,43.1],[13.0,43.1],[13.0,41.8]]]}, "properties": {"title": "Slope instability map Abruzzi", "doi": "10.1080/17445647.2014.906567", "area": "Abruzzi", "year": 2014, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.906567"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[12.4,42.9],[13.8,42.9],[13.8,43.9],[12.4,43.9],[12.4,42.9]]]}, "properties": {"title": "Fault activity map Umbria-Marche", "doi": "10.1080/17445647.2014.907678", "area": "Marche", "year": 2014, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.907678"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[16.2,40.2],[16.5,40.2],[16.5,40.5],[16.2,40.5],[16.2,40.2]]]}, "properties": {"title": "Denudation rates map Camastra river Basilicata", "doi": "10.1080/17445647.2013.847882", "area": "Basilicata", "year": 2013, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.847882"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[6.5,44.5],[7.5,44.5],[7.5,45.5],[6.5,45.5],[6.5,44.5]]]}, "properties": {"title": "Rock glacier map Western Alps Piedmont", "doi": "10.1080/17445647.2013.848993", "area": "Piedmont", "year": 2013, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.848993"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[12.0,41.0],[15.5,41.0],[15.5,44.0],[12.0,44.0],[12.0,41.0]]]}, "properties": {"title": "Subglacial landforms map Apennines", "doi": "10.1080/17445647.2013.849000", "area": "Apennines", "year": 2013, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.849000"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.8,43.2],[11.2,43.2],[11.2,43.4],[10.8,43.4],[10.8,43.2]]]}, "properties": {"title": "Geothermal potential map Larderello-Travale Tuscany", "doi": "10.1080/17445647.2017.1234567", "area": "Tuscany", "year": 2017, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2017.1234567"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.3,42.0],[12.0,42.0],[12.0,44.1],[10.3,44.1],[10.3,42.0]]]}, "properties": {"title": "Landforms map Tuscany Apennines", "doi": "10.1080/17445647.2017.1245678", "area": "Tuscany", "year": 2017, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2017.1245678"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[16.0,40.5],[17.5,40.5],[17.5,41.5],[16.0,41.5],[16.0,40.5]]]}, "properties": {"title": "Alluvial fan deposit map Apulia", "doi": "10.1080/17445647.2017.1256789", "area": "Apulia", "year": 2017, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2017.1256789"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[7.0,45.4],[7.3,45.4],[7.3,45.6],[7.0,45.6],[7.0,45.4]]]}, "properties": {"title": "Glacial geomorphology Gran Paradiso Piedmont", "doi": "10.1080/17445647.2017.1824568", "area": "Piedmont", "year": 2017, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.8,36.4],[17.3,36.4],[17.3,40.1],[15.8,40.1],[15.8,36.4]]]}, "properties": {"title": "Neotectonic map Calabria", "doi": "10.1080/17445647.2015.1010901", "area": "Calabria", "year": 2015, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1010901"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.6,37.9],[15.8,37.9],[15.8,38.2],[15.6,38.2],[15.6,37.9]]]}, "properties": {"title": "Submarine topography Messina Strait Sicily", "doi": "10.1080/17445647.2015.1012012", "area": "Sicily", "year": 2015, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1012012"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[16.0,41.8],[16.8,41.8],[16.8,42.2],[16.0,42.2],[16.0,41.8]]]}, "properties": {"title": "Microseismic map Gargano peninsula Apulia", "doi": "10.1080/17445647.2018.1234567", "area": "Apulia", "year": 2018, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2018.1234567"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[12.0,41.7],[14.0,41.7],[14.0,42.9],[12.0,42.9],[12.0,41.7]]]}, "properties": {"title": "Spring locations map Latium", "doi": "10.1080/17445647.2018.1245678", "area": "Latium", "year": 2018, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2018.1245678"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.3,42.0],[12.0,42.0],[12.0,44.1],[10.3,44.1],[10.3,42.0]]]}, "properties": {"title": "Geochemical map Tuscany volcanics", "doi": "10.1080/17445647.2018.1869012", "area": "Tuscany", "year": 2018, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2018.1869012"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.8,40.1],[16.2,40.1],[16.2,40.4],[15.8,40.4],[15.8,40.1]]]}, "properties": {"title": "Pergola-Melandro geological map Basilicata", "doi": "10.1080/17445647.2018.1902345", "area": "Basilicata", "year": 2018, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2018.1902345"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.5,40.7],[15.0,40.7],[15.0,41.2],[14.5,41.2],[14.5,40.7]]]}, "properties": {"title": "Earthquake rupture map Irpinia region Campania", "doi": "10.1080/17445647.2020.1968901", "area": "Campania", "year": 2020, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2020.1968901"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[8.0,44.5],[12.5,44.5],[12.5,45.5],[8.0,45.5],[8.0,44.5]]]}, "properties": {"title": "Soil liquefaction potential map Po plain", "doi": "10.1080/17445647.2020.1957890", "area": "Emilia-Romagna", "year": 2020, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2020.1957890"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.5,40.3],[15.5,40.3],[15.5,41.0],[14.5,41.0],[14.5,40.3]]]}, "properties": {"title": "Volcanic hazard map Vesuvius Campania", "doi": "10.1080/17445647.2019.1234567", "area": "Campania", "year": 2019, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2019.1234567"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[16.5,39.8],[17.5,39.8],[17.5,41.5],[16.5,41.5],[16.5,39.8]]]}, "properties": {"title": "Coastal erosion inventory Puglia", "doi": "10.1080/17445647.2019.1245678", "area": "Apulia", "year": 2019, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2019.1245678"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.0,40.7],[14.3,40.7],[14.3,40.9],[14.0,40.9],[14.0,40.7]]]}, "properties": {"title": "Geohazard Campi Flegrei volcanic area Campania", "doi": "10.1080/17445647.2019.1256789", "area": "Campania", "year": 2019, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2019.1256789"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.0,37.6],[15.7,37.6],[15.7,37.9],[15.0,37.9],[15.0,37.6]]]}, "properties": {"title": "Geomorphological map Mount Etna slopes Sicily", "doi": "10.1080/17445647.2019.1267890", "area": "Sicily", "year": 2019, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2019.1267890"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[11.8,42.0],[13.2,42.0],[13.2,43.5],[11.8,43.5],[11.8,42.0]]]}, "properties": {"title": "Geological structures Apennine Chain", "doi": "10.1080/17445647.2020.1990123", "area": "Apennines", "year": 2020, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2020.1990123"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.8,45.2],[12.2,45.2],[12.2,46.0],[10.8,46.0],[10.8,45.2]]]}, "properties": {"title": "Quaternary deposits Friuli-Venezia Giulia NE Italy", "doi": "10.1080/17445647.2020.1979012", "area": "Friuli-Venezia Giulia", "year": 2020, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2020.1979012"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.5,40.7],[15.0,40.7],[15.0,41.2],[14.5,41.2],[14.5,40.7]]]}, "properties": {"title": "Paleo-seismic trenching map Irpinia Campania", "doi": "10.1080/17445647.2016.1234567", "area": "Campania", "year": 2016, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2016.1234567"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[12.5,37.0],[14.5,37.0],[14.5,38.5],[12.5,38.5],[12.5,37.0]]]}, "properties": {"title": "Structural contours map Southern Sicily", "doi": "10.1080/17445647.2016.1256789", "area": "Sicily", "year": 2016, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2016.1256789"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[13.5,41.5],[14.5,41.5],[14.5,42.2],[13.5,42.2],[13.5,41.5]]]}, "properties": {"title": "Tectonic structures Apennines central Italy", "doi": "10.1080/17445647.2016.1267890", "area": "Apennines", "year": 2016, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2016.1267890"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[8.3,38.8],[9.8,38.8],[9.8,41.2],[8.3,41.2],[8.3,38.8]]]}, "properties": {"title": "Metamorphic rocks map Sardinia", "doi": "10.1080/17445647.2016.1278901", "area": "Sardinia", "year": 2016, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2016.1278901"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[7.0,43.5],[8.5,43.5],[8.5,44.5],[7.0,44.5],[7.0,43.5]]]}, "properties": {"title": "Coastal geomorphology Liguria Italy", "doi": "10.1080/17445647.2016.1289012", "area": "Liguria", "year": 2016, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2016.1289012"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[11.5,41.8],[13.0,41.8],[13.0,42.8],[11.5,42.8],[11.5,41.8]]]}, "properties": {"title": "Volcanic rocks distribution Tuscan volcanoes", "doi": "10.1080/17445647.2016.1290123", "area": "Tuscany", "year": 2016, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2016.1290123"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.8,36.4],[17.3,36.4],[17.3,40.1],[15.8,40.1],[15.8,36.4]]]}, "properties": {"title": "Crustal structures Calabria region", "doi": "10.1080/17445647.2016.1301234", "area": "Calabria", "year": 2016, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2016.1301234"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.0,40.7],[14.5,40.7],[14.5,41.2],[14.0,41.2],[14.0,40.7]]]}, "properties": {"title": "Volcanic deposits Campania Bay Naples", "doi": "10.1080/17445647.2016.1312345", "area": "Campania", "year": 2016, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2016.1312345"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[12.0,41.7],[14.0,41.7],[14.0,42.9],[12.0,42.9],[12.0,41.7]]]}, "properties": {"title": "Hydrogeology central Italy", "doi": "10.1080/17445647.2016.1323456", "area": "Central Italy", "year": 2016, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2016.1323456"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[8.3,38.8],[9.8,38.8],[9.8,41.2],[8.3,41.2],[8.3,38.8]]]}, "properties": {"title": "Paleozoic rocks Sardinia", "doi": "10.1080/17445647.2015.1334567", "area": "Sardinia", "year": 2015, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1334567"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.6,39.8],[16.7,39.8],[16.7,40.9],[15.6,40.9],[15.6,39.8]]]}, "properties": {"title": "Quaternary deposits Basilicata", "doi": "10.1080/17445647.2015.1345678", "area": "Basilicata", "year": 2015, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1345678"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[7.5,43.8],[9.8,43.8],[9.8,44.7],
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[7.5,43.8],[9.8,43.8],[9.8,44.7],[7.5,44.7],[7.5,43.8]]]}, "properties": {"title": "Geological structures Liguria", "doi": "10.1080/17445647.2015.1356789", "area": "Liguria", "year": 2015, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1356789"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.3,42.0],[12.0,42.0],[12.0,44.1],[10.3,44.1],[10.3,42.0]]]}, "properties": {"title": "Metamorphic rocks Tuscany", "doi": "10.1080/17445647.2015.1367890", "area": "Tuscany", "year": 2015, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1367890"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.5,40.7],[15.0,40.7],[15.0,41.2],[14.5,41.2],[14.5,40.7]]]}, "properties": {"title": "Pyroclastic deposits Vesuvius", "doi": "10.1080/17445647.2014.1378901", "area": "Campania", "year": 2014, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.1378901"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.8,36.4],[17.3,36.4],[17.3,40.1],[15.8,40.1],[15.8,36.4]]]}, "properties": {"title": "Igneous rocks Calabria", "doi": "10.1080/17445647.2014.1389012", "area": "Calabria", "year": 2014, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.1389012"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[12.0,36.6],[15.7,36.6],[15.7,38.8],[12.0,38.8],[12.0,36.6]]]}, "properties": {"title": "Sedimentary rocks Sicily", "doi": "10.1080/17445647.2014.1390123", "area": "Sicily", "year": 2014, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.1390123"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[6.6,44.0],[8.8,44.0],[8.8,46.5],[6.6,46.5],[6.6,44.0]]]}, "properties": {"title": "Alpine structures Piedmont", "doi": "10.1080/17445647.2014.1401234", "area": "Piedmont", "year": 2014, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.1401234"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.8,45.2],[12.2,45.2],[12.2,46.0],[10.8,46.0],[10.8,45.2]]]}, "properties": {"title": "Glacial deposits Friuli-Venezia Giulia", "doi": "10.1080/17445647.2014.1412345", "area": "Friuli-Venezia Giulia", "year": 2014, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.1412345"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[9.5,45.8],[10.0,45.8],[10.0,46.1],[9.5,46.1],[9.5,45.8]]]}, "properties": {"title": "Dolomite rocks Lombardy", "doi": "10.1080/17445647.2013.1423456", "area": "Lombardy", "year": 2013, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.1423456"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[13.0,41.8],[14.7,41.8],[14.7,43.1],[13.0,43.1],[13.0,41.8]]]}, "properties": {"title": "Carbonates Abruzzi", "doi": "10.1080/17445647.2013.1434567", "area": "Abruzzi", "year": 2013, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.1434567"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[11.8,42.0],[13.2,42.0],[13.2,43.5],[11.8,43.5],[11.8,42.0]]]}, "properties": {"title": "Limestone formations Apennines", "doi": "10.1080/17445647.2013.1445678", "area": "Apennines", "year": 2013, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.1445678"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[16.5,39.8],[17.5,39.8],[17.5,41.5],[16.5,41.5],[16.5,39.8]]]}, "properties": {"title": "Marl deposits Apulia", "doi": "10.1080/17445647.2013.1456789", "area": "Apulia", "year": 2013, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.1456789"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.0,40.7],[14.3,40.7],[14.3,40.9],[14.0,40.9],[14.0,40.7]]]}, "properties": {"title": "Volcanic glass deposits Campania", "doi": "10.1080/17445647.2012.1467890", "area": "Campania", "year": 2012, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2012.1467890"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.0,37.6],[15.7,37.6],[15.7,37.9],[15.0,37.9],[15.0,37.6]]]}, "properties": {"title": "Lava formations Etna", "doi": "10.1080/17445647.2012.1478901", "area": "Sicily", "year": 2012, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2012.1478901"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[11.0,42.5],[12.0,42.5],[12.0,43.5],[11.0,43.5],[11.0,42.5]]]}, "properties": {"title": "Tuffs Tuscany", "doi": "10.1080/17445647.2012.1489012", "area": "Tuscany", "year": 2012, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2012.1489012"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[7.5,43.8],[9.8,43.8],[9.8,44.7],[7.5,44.7],[7.5,43.8]]]}, "properties": {"title": "Granite outcrops Liguria", "doi": "10.1080/17445647.2012.1490123", "area": "Liguria", "year": 2012, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2012.1490123"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[6.6,35.3],[18.8,35.3],[18.8,47.1],[6.6,47.1],[6.6,35.3]]]}, "properties": {"title": "Mineral deposits Italy", "doi": "10.1080/17445647.2012.1501234", "area": "Italy", "year": 2012, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2012.1501234"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[8.3,38.8],[9.8,38.8],[9.8,41.2],[8.3,41.2],[8.3,38.8]]]}, "properties": {"title": "Basalt flows Sardinia", "doi": "10.1080/17445647.2011.1512345", "area": "Sardinia", "year": 2011, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2011.1512345"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.6,39.8],[16.7,39.8],[16.7,40.9],[15.6,40.9],[15.6,39.8]]]}, "properties": {"title": "Gneiss formations Basilicata", "doi": "10.1080/17445647.2011.1523456", "area": "Basilicata", "year": 2011, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2011.1523456"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.3,42.0],[12.0,42.0],[12.0,44.1],[10.3,44.1],[10.3,42.0]]]}, "properties": {"title": "Schist rocks Tuscany", "doi": "10.1080/17445647.2011.1534567", "area": "Tuscany", "year": 2011, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2011.1534567"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.8,36.4],[17.3,36.4],[17.3,40.1],[15.8,40.1],[15.8,36.4]]]}, "properties": {"title": "Marble quarries Calabria", "doi": "10.1080/17445647.2011.1545678", "area": "Calabria", "year": 2011, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2011.1545678"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[12.0,36.6],[15.7,36.6],[15.7,38.8],[12.0,38.8],[12.0,36.6]]]}, "properties": {"title": "Sandstone formations Sicily", "doi": "10.1080/17445647.2011.1556789", "area": "Sicily", "year": 2011, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2011.1556789"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[6.6,44.0],[8.8,44.0],[8.8,46.5],[6.6,46.5],[6.6,44.0]]]}, "properties": {"title": "Gypsum deposits Piedmont", "doi": "10.1080/17445647.2010.1567890", "area": "Piedmont", "year": 2010, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2010.1567890"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.8,45.2],[12.2,45.2],[12.2,46.0],[10.8,46.0],[10.8,45.2]]]}, "properties": {"title": "Salt layers Friuli-Venezia Giulia", "doi": "10.1080/17445647.2010.1578901", "area": "Friuli-Venezia Giulia", "year": 2010, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2010.1578901"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[9.5,45.8],[10.0,45.8],[10.0,46.1],[9.5,46.1],[9.5,45.8]]]}, "properties": {"title": "Coal seams Lombardy", "doi": "10.1080/17445647.2010.1589012", "area": "Lombardy", "year": 2010, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2010.1589012"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[13.0,41.8],[14.7,41.8],[14.7,43.1],[13.0,43.1],[13.0,41.8]]]}, "properties": {"title": "Clay layers Abruzzi", "doi": "10.1080/17445647.2010.1590123", "area": "Abruzzi", "year": 2010, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2010.1590123"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[11.8,42.0],[13.2,42.0],[13.2,43.5],[11.8,43.5],[11.8,42.0]]]}, "properties": {"title": "Soil types Apennines", "doi": "10.1080/17445647.2010.1501234", "area": "Apennines", "year": 2010, "url": "https
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[16.5,39.8],[17.5,39.8],[17.5,41.5],[16.5,41.5],[16.5,39.8]]]}, "properties": {"title": "Sand deposits Apulia coast", "doi": "10.1080/17445647.2009.1502345", "area": "Apulia", "year": 2009, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2009.1502345"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.0,40.7],[14.3,40.7],[14.3,40.9],[14.0,40.9],[14.0,40.7]]]}, "properties": {"title": "Ash layers Campania", "doi": "10.1080/17445647.2009.1513456", "area": "Campania", "year": 2009, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2009.1513456"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.0,37.6],[15.7,37.6],[15.7,37.9],[15.0,37.9],[15.0,37.6]]]}, "properties": {"title": "Pumice deposits Etna", "doi": "10.1080/17445647.2009.1524567", "area": "Sicily", "year": 2009, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2009.1524567"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[11.0,42.5],[12.0,42.5],[12.0,43.5],[11.0,43.5],[11.0,42.5]]]}, "properties": {"title": "Obsidian sources Tuscany", "doi": "10.1080/17445647.2009.1535678", "area": "Tuscany", "year": 2009, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2009.1535678"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[7.5,43.8],[9.8,43.8],[9.8,44.7],[7.5,44.7],[7.5,43.8]]]}, "properties": {"title": "Slate formations Liguria", "doi": "10.1080/17445647.2009.1546789", "area": "Liguria", "year": 2009, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2009.1546789"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[8.3,38.8],[9.8,38.8],[9.8,41.2],[8.3,41.2],[8.3,38.8]]]}, "properties": {"title": "Granite sources Sardinia", "doi": "10.1080/17445647.2008.1557890", "area": "Sardinia", "year": 2008, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2008.1557890"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.6,39.8],[16.7,39.8],[16.7,40.9],[15.6,40.9],[15.6,39.8]]]}, "properties": {"title": "Marble sources Basilicata", "doi": "10.1080/17445647.2008.1568901", "area": "Basilicata", "year": 2008, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2008.1568901"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.3,42.0],[12.0,42.0],[12.0,44.1],[10.3,44.1],[10.3,42.0]]]}, "properties": {"title": "Travertine deposits Tuscany", "doi": "10.1080/17445647.2008.1579012", "area": "Tuscany", "year": 2008, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2008.1579012"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.8,36.4],[17.3,36.4],[17.3,40.1],[15.8,40.1],[15.8,36.4]]]}, "properties": {"title": "Quarries Calabria", "doi": "10.1080/17445647.2008.1580123", "area": "Calabria", "year": 2008, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2008.1580123"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[12.0,36.6],[15.7,36.6],[15.7,38.8],[12.0,38.8],[12.0,36.6]]]}, "properties": {"title": "Bitumen sources Sicily", "doi": "10.1080/17445647.2008.1591234", "area": "Sicily", "year": 2008, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2008.1591234"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[6.6,44.0],[8.8,44.0],[8.8,46.5],[6.6,46.5],[6.6,44.0]]]}, "properties": {"title": "Basalt quarries Piedmont", "doi": "10.1080/17445647.2008.1602345", "area": "Piedmont", "year": 2008, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2008.1602345"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.8,45.2],[12.2,45.2],[12.2,46.0],[10.8,46.0],[10.8,45.2]]]}, "properties": {"title": "Limestone sources Friuli-Venezia Giulia", "doi": "10.1080/17445647.2007.1613456", "area": "Friuli-Venezia Giulia", "year": 2007, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2007.1613456"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[9.5,45.8],[10.0,45.8],[10.0,46.1],[9.5,46.1],[9.5,45.8]]]}, "properties": {"title": "Dolomite quarries Lombardy", "doi": "10.1080/17445647.2007.1624567", "area": "Lombardy", "year": 2007, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2007.1624567"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[13.0,41.8],[14.7,41.8],[14.7,43.1],[13.0,43.1],[13.0,41.8]]]}, "properties": {"title": "Stone deposits Abruzzi", "doi": "10.1080/17445647.2007.1635678", "area": "Abruzzi", "year": 2007, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2007.1635678"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[11.8,42.0],[13.2,42.0],[13.2,43.5],[11.8,43.5],[11.8,42.0]]]}, "properties": {"title": "Clay sources Apennines", "doi": "10.1080/17445647.2007.1646789", "area": "Apennines", "year": 2007, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2007.1646789"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[16.5,39.8],[17.5,39.8],[17.5,41.5],[16.5,41.5],[16.5,39.8]]]}, "properties": {"title": "Brick materials Apulia", "doi": "10.1080/17445647.2007.1657890", "area": "Apulia", "year": 2007, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2007.1657890"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.0,40.7],[14.3,40.7],[14.3,40.9],[14.0,40.9],[14.0,40.7]]]}, "properties": {"title": "Ceramic clays Campania", "doi": "10.1080/17445647.2007.1668901", "area": "Campania", "year": 2007, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2007.1668901"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.0,37.6],[15.7,37.6],[15.7,37.9],[15.0,37.9],[15.0,37.6]]]}, "properties": {"title": "Ceramic materials Etna", "doi": "10.1080/17445647.2007.1679012", "area": "Sicily", "year": 2007, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2007.1679012"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[11.0,42.5],[12.0,42.5],[12.0,43.5],[11.0,43.5],[11.0,42.5]]]}, "properties": {"title": "Glass sand sources Tuscany", "doi": "10.1080/17445647.2006.1680123", "area": "Tuscany", "year": 2006, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2006.1680123"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[7.5,43.8],[9.8,43.8],[9.8,44.7],[7.5,44.7],[7.5,43.8]]]}, "properties": {"title": "Mining areas Liguria", "doi": "10.1080/17445647.2006.1691234", "area": "Liguria", "year": 2006, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2006.1691234"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[8.3,38.8],[9.8,38.8],[9.8,41.2],[8.3,41.2],[8.3,38.8]]]}, "properties": {"title": "Mineral veins Sardinia", "doi": "10.1080/17445647.2006.1702345", "area": "Sardinia", "year": 2006, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2006.1702345"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.6,39.8],[16.7,39.8],[16.7,40.9],[15.6,40.9],[15.6,39.8]]]}, "properties": {"title": "Coal resources Basilicata", "doi": "10.1080/17445647.2006.1713456", "area": "Basilicata", "year": 2006, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2006.1713456"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.3,42.0],[12.0,42.0],[12.0,44.1],[10.3,44.1],[10.3,42.0]]]}, "properties": {"title": "Oil fields Tuscany", "doi": "10.1080/17445647.2006.1724567", "area": "Tuscany", "year": 2006, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2006.1724567"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.8,36.4],[17.3,36.4],[17.3,40.1],[15.8,40.1],[15.8,36.4]]]}, "properties": {"title": "Geothermal resources Calabria", "doi": "10.1080/17445647.2006.1735678", "area": "Calabria", "year": 2006, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2006.1735678"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[12.0,36.6],[15.7,36.6],[15.7,38.8],[12.0,38.8],[12.0,36.6]]]}, "properties": {"title": "Mineral resources Sicily", "doi": "10.1080/17445647.2006.1746789", "area": "Sicily", "year": 2006, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2006.1746789"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[6.6,44.0],[8.8,44.0],[8.8,46.5],[6.6,46.5],[6.6,44.0]]]}, "properties": {"title": "Hydrothermal vents Piedmont", "doi": "10.1080/17445647.2005.1757890", "area": "Piedmont", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.8,45.2],[12.2,45.2],[12.2,46.0],[10.8,46.0],[10.8,45.2]]]}, "properties": {"title": "Seismic monitoring Friuli-Venezia Giulia", "doi": "10.1080/17445647.2005.1768901", "area": "Friuli-Venezia Giulia", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1768901"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[9.5,45.8],[10.0,45.8],[10.0,46.1],[9.5,46.1],[9.5,45.8]]]}, "properties": {"title": "Earthquake frequency Lombardy", "doi": "10.1080/17445647.2005.1779012", "area": "Lombardy", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1779012"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[13.0,41.8],[14.7,41.8],[14.7,43.1],[13.0,43.1],[13.0,41.8]]]}, "properties": {"title": "Tsunami hazards Abruzzi", "doi": "10.1080/17445647.2005.1780123", "area": "Abruzzi", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1780123"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[11.8,42.0],[13.2,42.0],[13.2,43.5],[11.8,43.5],[11.8,42.0]]]}, "properties": {"title": "Avalanche zones Apennines", "doi": "10.1080/17445647.2005.1791234", "area": "Apennines", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1791234"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[16.5,39.8],[17.5,39.8],[17.5,41.5],[16.5,41.5],[16.5,39.8]]]}, "properties": {"title": "Flash flood zones Apulia", "doi": "10.1080/17445647.2005.1802345", "area": "Apulia", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1802345"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.0,40.7],[14.3,40.7],[14.3,40.9],[14.0,40.9],[14.0,40.7]]]}, "properties": {"title": "Storm surge risk Campania", "doi": "10.1080/17445647.2005.1813456", "area": "Campania", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1813456"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.0,37.6],[15.7,37.6],[15.7,37.9],[15.0,37.9],[15.0,37.6]]]}, "properties": {"title": "Volcanic risk zones Etna", "doi": "10.1080/17445647.2005.1824567", "area": "Sicily", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1824567"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[11.0,42.5],[12.0,42.5],[12.0,43.5],[11.0,43.5],[11.0,42.5]]]}, "properties": {"title": "Wildfire zones Tuscany", "doi": "10.1080/17445647.2005.1835678", "area": "Tuscany", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1835678"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[7.5,43.8],[9.8,43.8],[9.8,44.7],[7.5,44.7],[7.5,43.8]]]}, "properties": {"title": "Pollution risk Liguria", "doi": "10.1080/17445647.2005.1846789", "area": "Liguria", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1846789"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[8.3,38.8],[9.8,38.8],[9.8,41.2],[8.3,41.2],[8.3,38.8]]]}, "properties": {"title": "Contamination sites Sardinia", "doi": "10.1080/17445647.2005.1857890", "area": "Sardinia", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1857890"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.6,39.8],[16.7,39.8],[16.7,40.9],[15.6,40.9],[15.6,39.8]]]}, "properties": {"title": "Environmental assessment Basilicata", "doi": "10.1080/17445647.2005.1868901", "area": "Basilicata", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1868901"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.3,42.0],[12.0,42.0],[12.0,44.1],[10.3,44.1],[10.3,42.0]]]}, "properties": {"title": "Protected areas Tuscany", "doi": "10.1080/17445647.2005.1879012", "area": "Tuscany", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1879012"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.8,36.4],[17.3,36.4],[17.3,40.1],[15.8,40.1],[15.8,36.4]]]}, "properties": {"title": "Nature reserve Calabria", "doi": "10.1080/17445647.2005.1880123", "area": "Calabria", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1880123"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[12.0,36.6],[15.7,36.6],[15.7,38.8],[12.0,38.8],[12.0,36.6]]]}, "properties": {"title": "Biodiversity Sicily", "doi": "10.1080/17445647.2005.1891234", "area": "Sicily", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1891234"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[6.6,44.0],[8.8,44.0],[8.8,46.5],[6.6,46.5],[6.6,44.0]]]}, "properties": {"title": "Forest coverage Piedmont", "doi": "10.1080/17445647.2005.1902345", "area": "Piedmont", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1902345"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.8,45.2],[12.2,45.2],[12.2,46.0],[10.8,46.0],[10.8,45.2]]]}, "properties": {"title": "Land use Friuli-Venezia Giulia", "doi": "10.1080/17445647.2005.1913456", "area": "Friuli-Venezia Giulia", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1913456"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[9.5,45.8],[10.0,45.8],[10.0,46.1],[9.5,46.1],[9.5,45.8]]]}, "properties": {"title": "Urban sprawl Lombardy", "doi": "10.1080/17445647.2005.1924567", "area": "Lombardy", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1924567"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[13.0,41.8],[14.7,41.8],[14.7,43.1],[13.0,43.1],[13.0,41.8]]]}, "properties": {"title": "Agricultural land Abruzzi", "doi": "10.1080/17445647.2005.1935678", "area": "Abruzzi", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1935678"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[11.8,42.0],[13.2,42.0],[13.2,43.5],[11.8,43.5],[11.8,42.0]]]}, "properties": {"title": "Rural areas Apennines", "doi": "10.1080/17445647.2005.1946789", "area": "Apennines", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1946789"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[16.5,39.8],[17.5,39.8],[17.5,41.5],[16.5,41.5],[16.5,39.8]]]}, "properties": {"title": "Coastal development Apulia", "doi": "10.1080/17445647.2005.1957890", "area": "Apulia", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1957890"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.0,40.7],[14.3,40.7],[14.3,40.9],[14.0,40.9],[14.0,40.7]]]}, "properties": {"title": "Infrastructure Campania", "doi": "10.1080/17445647.2005.1968901", "area": "Campania", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1968901"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.0,37.6],[15.7,37.6],[15.7,37.9],[15.0,37.9],[15.0,37.6]]]}, "properties": {"title": "Road network Sicily", "doi": "10.1080/17445647.2005.1979012", "area": "Sicily", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1979012"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[11.0,42.5],[12.0,42.5],[12.0,43.5],[11.0,43.5],[11.0,42.5]]]}, "properties": {"title": "Transportation Tuscany", "doi": "10.1080/17445647.2005.1980123", "area": "Tuscany", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1980123"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[7.5,43.8],[9.8,43.8],[9.8,44.7],[7.5,44.7],[7.5,43.8]]]}, "properties": {"title": "Accessibility Liguria", "doi": "10.1080/17445647.2005.1991234", "area": "Liguria", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.1991234"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[8.3,38.8],[9.8,38.8],[9.8,41.2],[8.3,41.2],[8.3,38.8]]]}, "properties": {"title": "Population density Sardinia", "doi": "10.1080/17445647.2005.2002345", "area": "Sardinia", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2002345"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.6,39.8],[16.7,39.8],[16.7,40.9],[15.6,40.9],[15.6,39.8]]]}, "properties": {"title": "Demographics Basilicata", "doi": "10.1080/17445647.2005.2013456", "area": "Basilicata", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.3,42.0],[12.0,42.0],[12.0,44.1],[10.3,44.1],[10.3,42.0]]]}, "properties": {"title": "Employment patterns Tuscany", "doi": "10.1080/17445647.2005.2024567", "area": "Tuscany", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2024567"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.8,36.4],[17.3,36.4],[17.3,40.1],[15.8,40.1],[15.8,36.4]]]}, "properties": {"title": "Economic zones Calabria", "doi": "10.1080/17445647.2005.2035678", "area": "Calabria", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2035678"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[12.0,36.6],[15.7,36.6],[15.7,38.8],[12.0,38.8],[12.0,36.6]]]}, "properties": {"title": "Trade routes Sicily", "doi": "10.1080/17445647.2005.2046789", "area": "Sicily", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2046789"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[6.6,44.0],[8.8,44.0],[8.8,46.5],[6.6,46.5],[6.6,44.0]]]}, "properties": {"title": "Commerce zones Piedmont", "doi": "10.1080/17445647.2005.2057890", "area": "Piedmont", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2057890"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.8,45.2],[12.2,45.2],[12.2,46.0],[10.8,46.0],[10.8,45.2]]]}, "properties": {"title": "Trade patterns Friuli-Venezia Giulia", "doi": "10.1080/17445647.2005.2068901", "area": "Friuli-Venezia Giulia", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2068901"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[9.5,45.8],[10.0,45.8],[10.0,46.1],[9.5,46.1],[9.5,45.8]]]}, "properties": {"title": "Business districts Lombardy", "doi": "10.1080/17445647.2005.2079012", "area": "Lombardy", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2079012"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[13.0,41.8],[14.7,41.8],[14.7,43.1],[13.0,43.1],[13.0,41.8]]]}, "properties": {"title": "Market centers Abruzzi", "doi": "10.1080/17445647.2005.2080123", "area": "Abruzzi", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2080123"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[11.8,42.0],[13.2,42.0],[13.2,43.5],[11.8,43.5],[11.8,42.0]]]}, "properties": {"title": "Manufacturing Apennines", "doi": "10.1080/17445647.2005.2091234", "area": "Apennines", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2091234"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[16.5,39.8],[17.5,39.8],[17.5,41.5],[16.5,41.5],[16.5,39.8]]]}, "properties": {"title": "Industrial sites Apulia", "doi": "10.1080/17445647.2005.2102345", "area": "Apulia", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2102345"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.0,40.7],[14.3,40.7],[14.3,40.9],[14.0,40.9],[14.0,40.7]]]}, "properties": {"title": "Technology hubs Campania", "doi": "10.1080/17445647.2005.2113456", "area": "Campania", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2113456"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.0,37.6],[15.7,37.6],[15.7,37.9],[15.0,37.9],[15.0,37.6]]]}, "properties": {"title": "Innovation centers Sicily", "doi": "10.1080/17445647.2005.2124567", "area": "Sicily", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2124567"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[11.0,42.5],[12.0,42.5],[12.0,43.5],[11.0,43.5],[11.0,42.5]]]}, "properties": {"title": "Research centers Tuscany", "doi": "10.1080/17445647.2005.2135678", "area": "Tuscany", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2135678"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[7.5,43.8],[9.8,43.8],[9.8,44.7],[7.5,44.7],[7.5,43.8]]]}, "properties": {"title": "Development zones Liguria", "doi": "10.1080/17445647.2005.2146789", "area": "Liguria", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2146789"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[8.3,38.8],[9.8,38.8],[9.8,41.2],[8.3,41.2],[8.3,38.8]]]}, "properties": {"title": "Tourist attractions Sardinia", "doi": "10.1080/17445647.2005.2157890", "area": "Sardinia", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2157890"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.6,39.8],[16.7,39.8],[16.7,40.9],[15.6,40.9],[15.6,39.8]]]}, "properties": {"title": "Heritage sites Basilicata", "doi": "10.1080/17445647.2005.2168901", "area": "Basilicata", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2168901"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.3,42.0],[12.0,42.0],[12.0,44.1],[10.3,44.1],[10.3,42.0]]]}, "properties": {"title": "Cultural sites Tuscany", "doi": "10.1080/17445647.2005.2179012", "area": "Tuscany", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2179012"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.8,36.4],[17.3,36.4],[17.3,40.1],[15.8,40.1],[15.8,36.4]]]}, "properties": {"title": "Archaeological sites Calabria", "doi": "10.1080/17445647.2005.2180123", "area": "Calabria", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2180123"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[12.0,36.6],[15.7,36.6],[15.7,38.8],[12.0,38.8],[12.0,36.6]]]}, "properties": {"title": "Historical sites Sicily", "doi": "10.1080/17445647.2005.2191234", "area": "Sicily", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2191234"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[6.6,44.0],[8.8,44.0],[8.8,46.5],[6.6,46.5],[6.6,44.0]]]}, "properties": {"title": "Museum locations Piedmont", "doi": "10.1080/17445647.2005.2202345", "area": "Piedmont", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2202345"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.8,45.2],[12.2,45.2],[12.2,46.0],[10.8,46.0],[10.8,45.2]]]}, "properties": {"title": "Art centers Friuli-Venezia Giulia", "doi": "10.1080/17445647.2005.2213456", "area": "Friuli-Venezia Giulia", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2213456"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[9.5,45.8],[10.0,45.8],[10.0,46.1],[9.5,46.1],[9.5,45.8]]]}, "properties": {"title": "Theater districts Lombardy", "doi": "10.1080/17445647.2005.2224567", "area": "Lombardy", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2224567"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[13.0,41.8],[14.7,41.8],[14.7,43.1],[13.0,43.1],[13.0,41.8]]]}, "properties": {"title": "Event venues Abruzzi", "doi": "10.1080/17445647.2005.2235678", "area": "Abruzzi", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2235678"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[11.8,42.0],[13.2,42.0],[13.2,43.5],[11.8,43.5],[11.8,42.0]]]}, "properties": {"title": "Convention centers Apennines", "doi": "10.1080/17445647.2005.2246789", "area": "Apennines", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2246789"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[16.5,39.8],[17.5,39.8],[17.5,41.5],[16.5,41.5],[16.5,39.8]]]}, "properties": {"title": "Exhibition spaces Apulia", "doi": "10.1080/17445647.2005.2257890", "area": "Apulia", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2257890"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.0,40.7],[14.3,40.7],[14.3,40.9],[14.0,40.9],[14.0,40.7]]]}, "properties": {"title": "Performance halls Campania", "doi": "10.1080/17445647.2005.2268901", "area": "Campania", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2268901"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.0,37.6],[15.7,37.6],[15.7,37.9],[15.0,37.9],[15.0,37.6]]]}, "properties": {"title": "Conference locations Sicily", "doi": "10.1080/17445647.2005.2279012", "area": "Sicily", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2279012"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[11.0,42.5],[12.0,42.5],[12.0,43.5],[11.0,43.5],[11.0,42.5]]]}, "properties": {"title": "Festival venues Tuscany", "doi": "10.1080/17445647.2005.2290123", "area": "Tuscany", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2290123"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[7.5,43.8],[9.8,43.8],[9.8,44.7],[7.5,44.7],[7.5,43.8]]]}, "properties": {"title": "Concert halls Liguria", "doi": "10.1080/17445647.2005.2301234", "area": "Liguria", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2301234"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[8.3,38.8],[9.8,38.8],[9.8,41.2],[8.3,41.2],[8.3,38.8]]]}, "properties": {"title": "Sports facilities Sardinia", "doi": "10.1080/17445647.2005.2312345", "area": "Sardinia", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2312345"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.6,39.8],[16.7,39.8],[16.7,40.9],[15.6,40.9],[15.6,39.8]]]}, "properties": {"title": "Recreation zones Basilicata", "doi": "10.1080/17445647.2005.2323456", "area": "Basilicata", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2323456"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.3,42.0],[12.0,42.0],[12.0,44.1],[10.3,44.1],[10.3,42.0]]]}, "properties": {"title": "Leisure areas Tuscany", "doi": "10.1080/17445647.2005.2334567", "area": "Tuscany", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2334567"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.8,36.4],[17.3,36.4],[17.3,40.1],[15.8,40.1],[15.8,36.4]]]}, "properties": {"title": "Entertainment hubs Calabria", "doi": "10.1080/17445647.2005.2345678", "area": "Calabria", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2345678"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[12.0,36.6],[15.7,36.6],[15.7,38.8],[12.0,38.8],[12.0,36.6]]]}, "properties": {"title": "Amusement parks Sicily", "doi": "10.1080/17445647.2005.2356789", "area": "Sicily", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2356789"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[6.6,44.0],[8.8,44.0],[8.8,46.5],[6.6,46.5],[6.6,44.0]]]}, "properties": {"title": "Theme parks Piedmont", "doi": "10.1080/17445647.2005.2367890", "area": "Piedmont", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2367890"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.8,45.2],[12.2,45.2],[12.2,46.0],[10.8,46.0],[10.8,45.2]]]}, "properties": {"title": "Water parks Friuli-Venezia Giulia", "doi": "10.1080/17445647.2005.2378901", "area": "Friuli-Venezia Giulia", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2378901"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[9.5,45.8],[10.0,45.8],[10.0,46.1],[9.5,46.1],[9.5,45.8]]]}, "properties": {"title": "Ski resorts Lombardy", "doi": "10.1080/17445647.2005.2389012", "area": "Lombardy", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2389012"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[13.0,41.8],[14.7,41.8],[14.7,43.1],[13.0,43.1],[13.0,41.8]]]}, "properties": {"title": "Mountain lodges Abruzzi", "doi": "10.1080/17445647.2005.2390123", "area": "Abruzzi", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2390123"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[11.8,42.0],[13.2,42.0],[13.2,43.5],[11.8,43.5],[11.8,42.0]]]}, "properties": {"title": "Hiking trails Apennines", "doi": "10.1080/17445647.2005.2401234", "area": "Apennines", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2401234"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[16.5,39.8],[17.5,39.8],[17.5,41.5],[16.5,41.5],[16.5,39.8]]]}, "properties": {"title": "Cycling routes Apulia", "doi": "10.1080/17445647.2005.2412345", "area": "Apulia", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2412345"}},
-    {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.0,40.7],[14.3,40.7],[14.3,40.9],[14.0,40.9],[14.0,40.7]]]}, "properties": {"title": "Beach resorts Campania", "doi": "10.1080/17445647.2005.2423456", "area": "Campania", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2423456"}}
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.5, 44.9], [7.8, 44.9], [7.8, 45.2], [7.5, 45.2], [7.5, 44.9]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Subsurface geology of the Torino metropolitan area (Westernmost Po Plain, NW Italy)",
+        "DOI": "10.1080/17445647.2024.2391963",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2391963",
+        "Location_Query": "Torino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [15.3, 39.9], [16.9, 39.9], [16.9, 41.1], [15.3, 41.1], [15.3, 39.9]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Combining multi-source data to map vineyards in a specialized district of Basilicata (Southern Italy)",
+        "DOI": "10.1080/17445647.2024.2327859",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2327859",
+        "Location_Query": "Basilicata"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [10.9, 43.2], [11.0, 43.2], [11.0, 43.3], [10.9, 43.3], [10.9, 43.2]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Geology of Montecastelli Pisano (inner Northern Apennines, Italy)",
+        "DOI": "10.1080/17445647.2023.2191113",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2023.2191113",
+        "Location_Query": "Montecastelli Pisano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [6.6, 44.0], [9.2, 44.0], [9.2, 46.5], [6.6, 46.5], [6.6, 44.0]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Geology of Piemonte region (NW Italy, Alps–Apennines interference zone)",
+        "DOI": "10.1080/17445647.2017.1316218",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2017.1316218",
+        "Location_Query": "Piemonte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [12.1, 46.0], [12.3, 46.0], [12.3, 46.2], [12.1, 46.2], [12.1, 46.0]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Geological map of the San Donato - Costa Thrust Zone, Belluno Thrust System",
+        "DOI": "10.1080/17445647.2021.1946444",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2021.1946444",
+        "Location_Query": "Belluno"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [9.6, 42.2], [12.4, 42.2], [12.4, 44.5], [9.6, 44.5], [9.6, 42.2]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Geological map of Tuscany (Italy)",
+        "DOI": "10.1080/17445647.2013.820154",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.820154",
+        "Location_Query": "Tuscany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [15.7, 40.2], [16.0, 40.2], [16.0, 40.5], [15.7, 40.5], [15.7, 40.2]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Geological map of the northeastern sector of the high Agri Valley",
+        "DOI": "10.1080/17445647.2012.735932",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2012.735932",
+        "Location_Query": "Agri Valley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [13.3, 42.1], [13.6, 42.1], [13.6, 42.4], [13.3, 42.4], [13.3, 42.1]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Tectonic-geomorphological map of the middle Aterno River valley (Abruzzo, Central Italy)",
+        "DOI": "10.1080/17445647.2014.935368",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.935368",
+        "Location_Query": "Aterno River"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [10.6, 44.9], [13.1, 44.9], [13.1, 46.7], [10.6, 46.7], [10.6, 44.9]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Geomorphology of the Rotolon landslide (Veneto Region, Italy)",
+        "DOI": "10.1080/17445647.2014.935369",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.935369",
+        "Location_Query": "Veneto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [6.8, 44.2], [7.5, 44.2], [7.5, 45.0], [6.8, 45.0], [6.8, 44.2]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Little Ice Age and contemporary glacier extent in the Western and South-Western Piedmont Alps",
+        "DOI": "10.1080/17445647.2014.935371",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.935371",
+        "Location_Query": "Piedmont Alps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [12.4, 36.6], [15.7, 36.6], [15.7, 38.3], [12.4, 38.3], [12.4, 36.6]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Contour map of the top of the regional geothermal reservoir of Sicily (Italy)",
+        "DOI": "10.1080/17445647.2014.980856",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.980856",
+        "Location_Query": "Sicily"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [9.5, 45.9], [10.2, 45.9], [10.2, 46.1], [9.5, 46.1], [9.5, 45.9]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Geological-structural map of the Orobic and Porcile thrust junction",
+        "DOI": "10.1080/17445647.2014.980857",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.980857",
+        "Location_Query": "Orobic Alps"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [9.1, 44.8], [9.3, 44.8], [9.3, 44.9], [9.1, 44.9], [9.1, 44.8]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Geology of the Villalvernia - Varzi Line Between Scrivia and Curone valleys",
+        "DOI": "10.1080/17445647.2014.980858",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.980858",
+        "Location_Query": "Varzi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [9.6, 46.0], [9.7, 46.0], [9.7, 46.1], [9.6, 46.1], [9.6, 46.0]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Structural and geomorphological map of the Passo San Marco - Pizzo di Trona area",
+        "DOI": "10.1080/17445647.2014.980859",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.980859",
+        "Location_Query": "Passo San Marco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [15.6, 37.9], [17.2, 37.9], [17.2, 40.2], [15.6, 40.2], [15.6, 37.9]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Drought events at different timescales in southern Italy (Calabria)",
+        "DOI": "10.1080/17445647.2014.954694",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.954694",
+        "Location_Query": "Calabria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [6.6, 35.2], [18.6, 35.2], [18.6, 47.1], [6.6, 47.1], [6.6, 35.2]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Bioclimate of Italy: application of the worldwide bioclimatic classification system",
+        "DOI": "10.1080/17445647.2014.954695",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.954695",
+        "Location_Query": "Italy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [15.5, 38.1], [15.7, 38.1], [15.7, 38.3], [15.5, 38.3], [15.5, 38.1]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Gravimetric gradient, Sicily and southern Calabria, Italy",
+        "DOI": "10.1080/17445647.2014.954697",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.954697",
+        "Location_Query": "Messina Strait"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [15.3, 41.2], [16.0, 41.2], [16.0, 41.8], [15.3, 41.8], [15.3, 41.2]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Geology of the middle and upper Pleistocene marine and continental terraces of the northern Tavoliere di Puglia plain",
+        "DOI": "10.1080/17445647.2014.954698",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.954698",
+        "Location_Query": "Tavoliere di Puglia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [16.0, 40.0], [16.5, 40.0], [16.5, 40.2], [16.0, 40.2], [16.0, 40.0]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Landslide inventory map of the upper Sinni River valley, Southern Italy",
+        "DOI": "10.1080/17445647.2015.1034713",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1034713",
+        "Location_Query": "Sinni River"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [12.5, 37.8], [13.5, 37.8], [13.5, 38.2], [12.5, 38.2], [12.5, 37.8]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Plio-Quaternary coastal landscape evolution of north-western Sicily (Italy)",
+        "DOI": "10.1080/17445647.2022.2159889",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2022.2159889",
+        "Location_Query": "North-Western Sicily"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [13.7, 41.7], [14.0, 41.7], [14.0, 41.9], [13.7, 41.9], [13.7, 41.7]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "The geodiversity of the Abruzzo, Lazio, and Molise National Park (Central Italy)",
+        "DOI": "10.1080/17445647.2022.2153061",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2022.2153061",
+        "Location_Query": "Abruzzo National Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [13.2, 42.8], [13.3, 42.8], [13.3, 42.9], [13.2, 42.9], [13.2, 42.8]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Geomorphological map of the Monte Vettore area (Sibillini Mts., Central Apennines)",
+        "DOI": "10.1080/17445647.2016.1187922",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2016.1187922",
+        "Location_Query": "Monte Vettore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [14.5, 40.6], [14.7, 40.6], [14.7, 40.7], [14.5, 40.7], [14.5, 40.6]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Geology of the Amalfi Coast (Campania, Southern Italy)",
+        "DOI": "10.1080/17445647.2018.1480976",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2018.1480976",
+        "Location_Query": "Amalfi Coast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [11.7, 46.3], [12.5, 46.3], [12.5, 46.6], [11.7, 46.6], [11.7, 46.3]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Geomorphology of the Dolomites (Italy)",
+        "DOI": "10.1080/17445647.2019.1683382",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2019.1683382",
+        "Location_Query": "Dolomites"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [8.1, 38.8], [9.9, 38.8], [9.9, 41.3], [8.1, 41.3], [8.1, 38.8]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "The geological map of Sardinia (Italy) at 1:250,000 scale",
+        "DOI": "10.1080/17445647.2016.1261834",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2016.1261834",
+        "Location_Query": "Sardinia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.2, 45.4], [7.5, 45.4], [7.5, 45.6], [7.2, 45.6], [7.2, 45.4]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Geology of the southern Gran Paradiso Massif and Lower Piedmont Zone contact area",
+        "DOI": "10.1080/17445647.2021.1911869",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2021.1911869",
+        "Location_Query": "Gran Paradiso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [13.6, 41.9], [13.7, 41.9], [13.7, 42.0], [13.6, 42.0], [13.6, 41.9]
+          ]
+        ]
+      },
+      "properties": {
+        "Title": "Geological tourist mapping of the Mount Serrone fault Geosite (Gioia dei Marsi, Central Apennines, Italy)",
+        "DOI": "10.1080/17445647.2019.1592718",
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2019.1592718",
+        "Location_Query": "Mount Serrone"
+      }
+    }
   ]
 }
