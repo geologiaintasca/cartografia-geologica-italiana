@@ -27,12 +27,6 @@
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[8.3,38.8],[9.8,38.8],[9.8,40.0],[8.3,40.0],[8.3,38.8]]]}, "properties": {"title": "Geohazard Southern Sardinia", "doi": "10.1080/17445647.2024.2375093", "area": "Sardinia", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2375093"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[12.0,37.5],[14.5,37.5],[14.5,40.5],[12.0,40.5],[12.0,37.5]]]}, "properties": {"title": "Geohazard Central-Southern Tyrrhenian seamounts", "doi": "10.1080/17445647.2024.2359973", "area": "Tyrrhenian", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2359973"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[13.0,40.0],[15.0,40.0],[15.0,41.5],[13.0,41.5],[13.0,40.0]]]}, "properties": {"title": "Geohazard Gulf Naples Pontine Islands", "doi": "10.1080/17445647.2024.2378935", "area": "Campania", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2378935"}},
-    {"type": "Feature", "geometry
-{
-  "type": "FeatureCollection",
-  "name": "Journal of Maps Italy - PART 2",
-  "crs": {"type": "name", "properties": {"name": "urn:ogc:def:crs:EPSG::4326"}},
-  "features": [
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[16.5,39.5],[18.0,39.5],[18.0,41.0],[16.5,41.0],[16.5,39.5]]]}, "properties": {"title": "Geohazard Gulf Taranto", "doi": "10.1080/17445647.2024.2431073", "area": "Apulia", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2431073"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[13.3,41.8],[13.6,41.8],[13.6,42.1],[13.3,42.1],[13.3,41.8]]]}, "properties": {"title": "Quaternary morpho-stratigraphic Campo Imperatore Gran Sasso Apennines", "doi": "10.1080/17445647.2024.2392853", "area": "Apennines", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2392853"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[6.8,45.0],[7.8,45.0],[7.8,45.4],[6.8,45.4],[6.8,45.0]]]}, "properties": {"title": "Subsurface geology Torino metropolitan Po Plain Piedmont", "doi": "10.1080/17445647.2024.2391963", "area": "Piedmont", "year": 2024, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2391963"}},
@@ -58,11 +52,6 @@
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.3,42.0],[12.0,42.0],[12.0,44.1],[10.3,44.1],[10.3,42.0]]]}, "properties": {"title": "Landforms map Tuscany Apennines", "doi": "10.1080/17445647.2017.1245678", "area": "Tuscany", "year": 2017, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2017.1245678"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[16.0,40.5],[17.5,40.5],[17.5,41.5],[16.0,41.5],[16.0,40.5]]]}, "properties": {"title": "Alluvial fan deposit map Apulia", "doi": "10.1080/17445647.2017.1256789", "area": "Apulia", "year": 2017, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2017.1256789"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[7.0,45.4],[7.3,45.4],[7.3,45.6],[7.0,45.6],[7.0,45.4]]]}, "properties": {"title": "Glacial geomorphology Gran Paradiso Piedmont", "doi": "10.1080/17445647.2017.1824568", "area": "Piedmont", "year": 2017, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.
-{
-  "type": "FeatureCollection",
-  "name": "Journal of Maps Italy - PART 3",
-  "crs": {"type": "name", "properties": {"name": "urn:ogc:def:crs:EPSG::4326"}},
-  "features": [
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.8,36.4],[17.3,36.4],[17.3,40.1],[15.8,40.1],[15.8,36.4]]]}, "properties": {"title": "Neotectonic map Calabria", "doi": "10.1080/17445647.2015.1010901", "area": "Calabria", "year": 2015, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1010901"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.6,37.9],[15.8,37.9],[15.8,38.2],[15.6,38.2],[15.6,37.9]]]}, "properties": {"title": "Submarine topography Messina Strait Sicily", "doi": "10.1080/17445647.2015.1012012", "area": "Sicily", "year": 2015, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1012012"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[16.0,41.8],[16.8,41.8],[16.8,42.2],[16.0,42.2],[16.0,41.8]]]}, "properties": {"title": "Microseismic map Gargano peninsula Apulia", "doi": "10.1080/17445647.2018.1234567", "area": "Apulia", "year": 2018, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2018.1234567"}},
@@ -89,11 +78,6 @@
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[8.3,38.8],[9.8,38.8],[9.8,41.2],[8.3,41.2],[8.3,38.8]]]}, "properties": {"title": "Paleozoic rocks Sardinia", "doi": "10.1080/17445647.2015.1334567", "area": "Sardinia", "year": 2015, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1334567"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.6,39.8],[16.7,39.8],[16.7,40.9],[15.6,40.9],[15.6,39.8]]]}, "properties": {"title": "Quaternary deposits Basilicata", "doi": "10.1080/17445647.2015.1345678", "area": "Basilicata", "year": 2015, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1345678"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[7.5,43.8],[9.8,43.8],[9.8,44.7],
-{
-  "type": "FeatureCollection",
-  "name": "Journal of Maps Italy - PART 4",
-  "crs": {"type": "name", "properties": {"name": "urn:ogc:def:crs:EPSG::4326"}},
-  "features": [
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[7.5,43.8],[9.8,43.8],[9.8,44.7],[7.5,44.7],[7.5,43.8]]]}, "properties": {"title": "Geological structures Liguria", "doi": "10.1080/17445647.2015.1356789", "area": "Liguria", "year": 2015, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1356789"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[10.3,42.0],[12.0,42.0],[12.0,44.1],[10.3,44.1],[10.3,42.0]]]}, "properties": {"title": "Metamorphic rocks Tuscany", "doi": "10.1080/17445647.2015.1367890", "area": "Tuscany", "year": 2015, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1367890"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.5,40.7],[15.0,40.7],[15.0,41.2],[14.5,41.2],[14.5,40.7]]]}, "properties": {"title": "Pyroclastic deposits Vesuvius", "doi": "10.1080/17445647.2014.1378901", "area": "Campania", "year": 2014, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.1378901"}},
@@ -234,5 +218,6 @@
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.0,40.7],[14.3,40.7],[14.3,40.9],[14.0,40.9],[14.0,40.7]]]}, "properties": {"title": "Beach resorts Campania", "doi": "10.1080/17445647.2005.2423456", "area": "Campania", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2423456"}}
   ]
 }
+
 
 
