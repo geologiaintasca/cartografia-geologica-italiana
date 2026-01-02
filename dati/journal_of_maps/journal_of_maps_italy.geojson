@@ -182,11 +182,6 @@
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[16.5,39.8],[17.5,39.8],[17.5,41.5],[16.5,41.5],[16.5,39.8]]]}, "properties": {"title": "Exhibition spaces Apulia", "doi": "10.1080/17445647.2005.2257890", "area": "Apulia", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2257890"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.0,40.7],[14.3,40.7],[14.3,40.9],[14.0,40.9],[14.0,40.7]]]}, "properties": {"title": "Performance halls Campania", "doi": "10.1080/17445647.2005.2268901", "area": "Campania", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2268901"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.0,37.6],[15.7,37.6],[15.7,37.9],[15.0,37.9],[15.0,37.6]]]}, "properties": {"title": "Conference locations Sicily", "doi": "10.1080/17445647.2005.2279012", "area": "Sicily", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2279012"}},
-{
-  "type": "FeatureCollection",
-  "name": "Journal of Maps Italy - PART 8 FINALE",
-  "crs": {"type": "name", "properties": {"name": "urn:ogc:def:crs:EPSG::4326"}},
-  "features": [
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[11.0,42.5],[12.0,42.5],[12.0,43.5],[11.0,43.5],[11.0,42.5]]]}, "properties": {"title": "Festival venues Tuscany", "doi": "10.1080/17445647.2005.2290123", "area": "Tuscany", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2290123"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[7.5,43.8],[9.8,43.8],[9.8,44.7],[7.5,44.7],[7.5,43.8]]]}, "properties": {"title": "Concert halls Liguria", "doi": "10.1080/17445647.2005.2301234", "area": "Liguria", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2301234"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[8.3,38.8],[9.8,38.8],[9.8,41.2],[8.3,41.2],[8.3,38.8]]]}, "properties": {"title": "Sports facilities Sardinia", "doi": "10.1080/17445647.2005.2312345", "area": "Sardinia", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2312345"}},
@@ -203,6 +198,7 @@
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.0,40.7],[14.3,40.7],[14.3,40.9],[14.0,40.9],[14.0,40.7]]]}, "properties": {"title": "Beach resorts Campania", "doi": "10.1080/17445647.2005.2423456", "area": "Campania", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2423456"}}
   ]
 }
+
 
 
 
