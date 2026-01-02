@@ -104,11 +104,6 @@
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[9.5,45.8],[10.0,45.8],[10.0,46.1],[9.5,46.1],[9.5,45.8]]]}, "properties": {"title": "Coal seams Lombardy", "doi": "10.1080/17445647.2010.1589012", "area": "Lombardy", "year": 2010, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2010.1589012"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[13.0,41.8],[14.7,41.8],[14.7,43.1],[13.0,43.1],[13.0,41.8]]]}, "properties": {"title": "Clay layers Abruzzi", "doi": "10.1080/17445647.2010.1590123", "area": "Abruzzi", "year": 2010, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2010.1590123"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[11.8,42.0],[13.2,42.0],[13.2,43.5],[11.8,43.5],[11.8,42.0]]]}, "properties": {"title": "Soil types Apennines", "doi": "10.1080/17445647.2010.1501234", "area": "Apennines", "year": 2010, "url": "https
-{
-  "type": "FeatureCollection",
-  "name": "Journal of Maps Italy - PART 5",
-  "crs": {"type": "name", "properties": {"name": "urn:ogc:def:crs:EPSG::4326"}},
-  "features": [
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[16.5,39.8],[17.5,39.8],[17.5,41.5],[16.5,41.5],[16.5,39.8]]]}, "properties": {"title": "Sand deposits Apulia coast", "doi": "10.1080/17445647.2009.1502345", "area": "Apulia", "year": 2009, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2009.1502345"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.0,40.7],[14.3,40.7],[14.3,40.9],[14.0,40.9],[14.0,40.7]]]}, "properties": {"title": "Ash layers Campania", "doi": "10.1080/17445647.2009.1513456", "area": "Campania", "year": 2009, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2009.1513456"}},
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[15.0,37.6],[15.7,37.6],[15.7,37.9],[15.0,37.9],[15.0,37.6]]]}, "properties": {"title": "Pumice deposits Etna", "doi": "10.1080/17445647.2009.1524567", "area": "Sicily", "year": 2009, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2009.1524567"}},
@@ -218,6 +213,7 @@
     {"type": "Feature", "geometry": {"type": "Polygon", "coordinates": [[[14.0,40.7],[14.3,40.7],[14.3,40.9],[14.0,40.9],[14.0,40.7]]]}, "properties": {"title": "Beach resorts Campania", "doi": "10.1080/17445647.2005.2423456", "area": "Campania", "year": 2005, "url": "https://www.tandfonline.com/doi/full/10.1080/17445647.2005.2423456"}}
   ]
 }
+
 
 
 
