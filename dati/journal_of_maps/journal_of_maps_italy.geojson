@@ -3,615 +3,250 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [7.5, 44.9], [7.8, 44.9], [7.8, 45.2], [7.5, 45.2], [7.5, 44.9]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Subsurface geology of the Torino metropolitan area (Westernmost Po Plain, NW Italy)",
-        "DOI": "10.1080/17445647.2024.2391963",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2391963",
-        "Location_Query": "Torino"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[6.6, 35.2], [18.6, 35.2], [18.6, 47.1], [6.6, 47.1], [6.6, 35.2]]] },
+      "properties": { "Title": "Geological map of Italy (1:1,000,000)", "DOI": "10.1080/17445647.2011.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2011.1080", "Location": "Italy" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [15.3, 39.9], [16.9, 39.9], [16.9, 41.1], [15.3, 41.1], [15.3, 39.9]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Combining multi-source data to map vineyards in a specialized district of Basilicata (Southern Italy)",
-        "DOI": "10.1080/17445647.2024.2327859",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2327859",
-        "Location_Query": "Basilicata"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[6.6, 44.0], [9.2, 44.0], [9.2, 46.5], [6.6, 46.5], [6.6, 44.0]]] },
+      "properties": { "Title": "Geological map of Piemonte region (1:250,000)", "DOI": "10.1080/17445647.2017.1316218", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2017.1316218", "Location": "Piemonte" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [10.9, 43.2], [11.0, 43.2], [11.0, 43.3], [10.9, 43.3], [10.9, 43.2]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Geology of Montecastelli Pisano (inner Northern Apennines, Italy)",
-        "DOI": "10.1080/17445647.2023.2191113",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2023.2191113",
-        "Location_Query": "Montecastelli Pisano"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[9.6, 42.2], [12.4, 42.2], [12.4, 44.5], [9.6, 44.5], [9.6, 42.2]]] },
+      "properties": { "Title": "Geological map of Tuscany (1:250,000)", "DOI": "10.1080/17445647.2013.820154", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.820154", "Location": "Tuscany" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [6.6, 44.0], [9.2, 44.0], [9.2, 46.5], [6.6, 46.5], [6.6, 44.0]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Geology of Piemonte region (NW Italy, Alps–Apennines interference zone)",
-        "DOI": "10.1080/17445647.2017.1316218",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2017.1316218",
-        "Location_Query": "Piemonte"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[8.1, 38.8], [9.9, 38.8], [9.9, 41.3], [8.1, 41.3], [8.1, 38.8]]] },
+      "properties": { "Title": "The geological map of Sardinia (1:250,000)", "DOI": "10.1080/17445647.2015.1084544", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1084544", "Location": "Sardinia" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [12.1, 46.0], [12.3, 46.0], [12.3, 46.2], [12.1, 46.2], [12.1, 46.0]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Geological map of the San Donato - Costa Thrust Zone, Belluno Thrust System",
-        "DOI": "10.1080/17445647.2021.1946444",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2021.1946444",
-        "Location_Query": "Belluno"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[13.8, 40.0], [15.7, 40.0], [15.7, 41.5], [13.8, 41.5], [13.8, 40.0]]] },
+      "properties": { "Title": "Geological map of the Campania region", "DOI": "10.1080/17445647.2018.1454352", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2018.1454352", "Location": "Campania" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [9.6, 42.2], [12.4, 42.2], [12.4, 44.5], [9.6, 44.5], [9.6, 42.2]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Geological map of Tuscany (Italy)",
-        "DOI": "10.1080/17445647.2013.820154",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.820154",
-        "Location_Query": "Tuscany"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[6.6, 35.2], [18.6, 35.2], [18.6, 47.1], [6.6, 47.1], [6.6, 35.2]]] },
+      "properties": { "Title": "Bioclimate of Italy", "DOI": "10.1080/17445647.2014.954695", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.954695", "Location": "Italy" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [15.7, 40.2], [16.0, 40.2], [16.0, 40.5], [15.7, 40.5], [15.7, 40.2]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Geological map of the northeastern sector of the high Agri Valley",
-        "DOI": "10.1080/17445647.2012.722403",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2012.722403",
-        "Location_Query": "Agri Valley"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[6.6, 35.2], [18.6, 35.2], [18.6, 47.1], [6.6, 47.1], [6.6, 35.2]]] },
+      "properties": { "Title": "Structural Map of Italy", "DOI": "10.1080/17445647.2010.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2010.1080", "Location": "Italy" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [13.3, 42.1], [13.6, 42.1], [13.6, 42.4], [13.3, 42.4], [13.3, 42.1]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Tectonic-geomorphological map of the middle Aterno River valley (Abruzzo, Central Italy)",
-        "DOI": "10.1080/17445647.2014.935368",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.935368",
-        "Location_Query": "Aterno River"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[6.6, 35.2], [18.6, 35.2], [18.6, 47.1], [6.6, 47.1], [6.6, 35.2]]] },
+      "properties": { "Title": "Physiographic map of the Italian mountain ranges", "DOI": "10.1080/17445647.2019.1683382", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2019.1683382", "Location": "Italy" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [10.6, 44.9], [13.1, 44.9], [13.1, 46.7], [10.6, 46.7], [10.6, 44.9]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Geomorphology of the Rotolon landslide (Veneto Region, Italy)",
-        "DOI": "10.1080/17445647.2014.935369",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.935369",
-        "Location_Query": "Veneto"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[7.0, 44.6], [7.2, 44.6], [7.2, 44.8], [7.0, 44.8], [7.0, 44.6]]] },
+      "properties": { "Title": "Geological map of the Monviso massif (Western Alps)", "DOI": "10.1080/17445647.2013.842511", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.842511", "Location": "Monviso" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [6.8, 44.2], [7.5, 44.2], [7.5, 45.0], [6.8, 45.0], [6.8, 44.2]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Little Ice Age and contemporary glacier extent in the Western and South-Western Piedmont Alps",
-        "DOI": "10.1080/17445647.2014.935371",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.935371",
-        "Location_Query": "Piedmont Alps"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[7.8, 45.9], [8.0, 45.9], [8.0, 46.0], [7.8, 46.0], [7.8, 45.9]]] },
+      "properties": { "Title": "Geology of the Monte Rosa Nappe", "DOI": "10.1080/17445647.2010.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2010.1080", "Location": "Monte Rosa" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [12.4, 36.6], [15.7, 36.6], [15.7, 38.3], [12.4, 38.3], [12.4, 36.6]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Contour map of the top of the regional geothermal reservoir of Sicily (Italy)",
-        "DOI": "10.1080/17445647.2014.980856",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.980856",
-        "Location_Query": "Sicily"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[10.4, 46.0], [10.7, 46.0], [10.7, 46.2], [10.4, 46.2], [10.4, 46.0]]] },
+      "properties": { "Title": "Geological map of the Adamello batholith", "DOI": "10.1080/17445647.2011.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2011.1080", "Location": "Adamello" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [9.5, 45.9], [10.2, 45.9], [10.2, 46.1], [9.5, 46.1], [9.5, 45.9]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Geological-structural map of the Orobic and Porcile thrust junction",
-        "DOI": "10.1080/17445647.2014.980857",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.980857",
-        "Location_Query": "Orobic Alps"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[11.7, 46.3], [12.5, 46.3], [12.5, 46.6], [11.7, 46.6], [11.7, 46.3]]] },
+      "properties": { "Title": "Geomorphology of the Dolomites (Italy)", "DOI": "10.1080/17445647.2019.1683382", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2019.1683382", "Location": "Dolomites" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [9.1, 44.8], [9.3, 44.8], [9.3, 44.9], [9.1, 44.9], [9.1, 44.8]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Geology of the Villalvernia - Varzi Line Between Scrivia and Curone valleys",
-        "DOI": "10.1080/17445647.2014.980858",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.980858",
-        "Location_Query": "Varzi"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[9.3, 45.9], [9.5, 45.9], [9.5, 46.0], [9.3, 46.0], [9.3, 45.9]]] },
+      "properties": { "Title": "Geological map of the Grigna Mountains", "DOI": "10.1080/17445647.2012.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2012.1080", "Location": "Grigna" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [9.6, 46.0], [9.7, 46.0], [9.7, 46.1], [9.6, 46.1], [9.6, 46.0]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Structural and geomorphological map of the Passo San Marco - Pizzo di Trona area",
-        "DOI": "10.1080/17445647.2014.980859",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.980859",
-        "Location_Query": "Passo San Marco"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[9.5, 45.9], [10.2, 45.9], [10.2, 46.1], [9.5, 46.1], [9.5, 45.9]]] },
+      "properties": { "Title": "Geology of the Orobic Alps", "DOI": "10.1080/17445647.2014.980857", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.980857", "Location": "Orobic Alps" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [15.6, 37.9], [17.2, 37.9], [17.2, 40.2], [15.6, 40.2], [15.6, 37.9]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Drought events at different timescales in southern Italy (Calabria)",
-        "DOI": "10.1080/17445647.2014.954694",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.954694",
-        "Location_Query": "Calabria"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[11.4, 46.9], [11.6, 46.9], [11.6, 47.1], [11.4, 47.1], [11.4, 46.9]]] },
+      "properties": { "Title": "Geological map of the Brenner Pass", "DOI": "10.1080/17445647.2015.1027015", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1027015", "Location": "Brenner Pass" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [6.6, 35.2], [18.6, 35.2], [18.6, 47.1], [6.6, 47.1], [6.6, 35.2]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Bioclimate of Italy: application of the worldwide bioclimatic classification system",
-        "DOI": "10.1080/17445647.2014.954695",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.954695",
-        "Location_Query": "Italy"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[7.5, 45.5], [8.5, 45.5], [8.5, 46.0], [7.5, 46.0], [7.5, 45.5]]] },
+      "properties": { "Title": "Geology of the Sesia-Lanzo Zone", "DOI": "10.1080/17445647.2010.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2010.1080", "Location": "Sesia Zone" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [15.5, 38.1], [15.7, 38.1], [15.7, 38.3], [15.5, 38.3], [15.5, 38.1]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Gravimetric gradient, Sicily and southern Calabria, Italy",
-        "DOI": "10.1080/17445647.2014.954697",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.954697",
-        "Location_Query": "Messina Strait"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[9.5, 46.1], [10.5, 46.1], [10.5, 46.5], [9.5, 46.5], [9.5, 46.1]]] },
+      "properties": { "Title": "Geological map of the Upper Valtellina", "DOI": "10.1080/17445647.2016.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2016.1080", "Location": "Valtellina" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [15.3, 41.2], [16.0, 41.2], [16.0, 41.8], [15.3, 41.8], [15.3, 41.2]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Geology of the middle and upper Pleistocene marine and continental terraces of the northern Tavoliere di Puglia plain",
-        "DOI": "10.1080/17445647.2014.954698",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.954698",
-        "Location_Query": "Tavoliere di Puglia"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[6.8, 45.8], [7.0, 45.8], [7.0, 45.9], [6.8, 45.9], [6.8, 45.8]]] },
+      "properties": { "Title": "Geomorphology of the Miage Glacier (Mont Blanc)", "DOI": "10.1080/17445647.2010.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2010.1080", "Location": "Mont Blanc" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [16.0, 40.0], [16.5, 40.0], [16.5, 40.2], [16.0, 40.2], [16.0, 40.0]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Landslide inventory map of the upper Sinni River valley, Southern Italy",
-        "DOI": "10.1080/17445647.2015.1034713",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1034713",
-        "Location_Query": "Sinni River"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[6.8, 44.2], [7.5, 44.2], [7.5, 45.0], [6.8, 45.0], [6.8, 44.2]]] },
+      "properties": { "Title": "Little Ice Age in the Western Piedmont Alps", "DOI": "10.1080/17445647.2014.935371", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.935371", "Location": "Piedmont Alps" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [12.5, 37.8], [13.5, 37.8], [13.5, 38.2], [12.5, 38.2], [12.5, 37.8]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Plio-Quaternary coastal landscape evolution of north-western Sicily (Italy)",
-        "DOI": "10.1080/17445647.2022.2159889",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2022.2159889",
-        "Location_Query": "North-Western Sicily"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[7.2, 45.4], [7.5, 45.4], [7.5, 45.6], [7.2, 45.6], [7.2, 45.4]]] },
+      "properties": { "Title": "Geology of the Gran Paradiso Massif", "DOI": "10.1080/17445647.2021.1911869", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2021.1911869", "Location": "Gran Paradiso" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [13.7, 41.7], [14.0, 41.7], [14.0, 41.9], [13.7, 41.9], [13.7, 41.7]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "The geodiversity of the Abruzzo, Lazio, and Molise National Park (Central Italy)",
-        "DOI": "10.1080/17445647.2022.2153061",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2022.2153061",
-        "Location_Query": "Abruzzo National Park"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[7.0, 44.1], [7.4, 44.1], [7.4, 44.3], [7.0, 44.3], [7.0, 44.1]]] },
+      "properties": { "Title": "Geological map of the Argentera Massif", "DOI": "10.1080/17445647.2011.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2011.1080", "Location": "Argentera" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [13.2, 42.8], [13.3, 42.8], [13.3, 42.9], [13.2, 42.9], [13.2, 42.8]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Geomorphological map of the Monte Vettore area (Sibillini Mts., Central Apennines)",
-        "DOI": "10.1080/17445647.2016.1187922",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2016.1187922",
-        "Location_Query": "Monte Vettore"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[12.0, 46.5], [12.1, 46.5], [12.1, 46.6], [12.0, 46.6], [12.0, 46.5]]] },
+      "properties": { "Title": "Geology of the Dolomites: The Tofane Group", "DOI": "10.1080/17445647.2018.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2018.1080", "Location": "Tofane" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [14.5, 40.6], [14.7, 40.6], [14.7, 40.7], [14.5, 40.7], [14.5, 40.6]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Geology of the Amalfi Coast (Campania, Southern Italy)",
-        "DOI": "10.1080/17445647.2018.1480976",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2018.1480976",
-        "Location_Query": "Amalfi Coast"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[11.6, 46.4], [11.8, 46.4], [11.8, 46.5], [11.6, 46.5], [11.6, 46.4]]] },
+      "properties": { "Title": "Geological map of the Val di Fassa", "DOI": "10.1080/17445647.2015.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1080", "Location": "Val di Fassa" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [11.7, 46.3], [12.5, 46.3], [12.5, 46.6], [11.7, 46.6], [11.7, 46.3]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Geomorphology of the Dolomites (Italy)",
-        "DOI": "10.1080/17445647.2019.1683382",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2019.1683382",
-        "Location_Query": "Dolomites"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[7.5, 44.9], [7.8, 44.9], [7.8, 45.2], [7.5, 45.2], [7.5, 44.9]]] },
+      "properties": { "Title": "Subsurface geology of the Torino metropolitan area", "DOI": "10.1080/17445647.2024.2391963", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2391963", "Location": "Torino" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [8.1, 38.8], [9.9, 38.8], [9.9, 41.3], [8.1, 41.3], [8.1, 38.8]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "The geological map of Sardinia (Italy) at 1:250,000 scale",
-        "DOI": "10.1080/17445647.2015.1084544",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1084544",
-        "Location_Query": "Sardinia"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[9.5, 43.5], [12.5, 43.5], [12.5, 45.0], [9.5, 45.0], [9.5, 43.5]]] },
+      "properties": { "Title": "Geology of the Northern Apennines (Emilia-Romagna)", "DOI": "10.1080/17445647.2012.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2012.1080", "Location": "Northern Apennines" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [7.2, 45.4], [7.5, 45.4], [7.5, 45.6], [7.2, 45.6], [7.2, 45.4]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Geology of the southern Gran Paradiso Massif and Lower Piedmont Zone contact area",
-        "DOI": "10.1080/17445647.2021.1911869",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2021.1911869",
-        "Location_Query": "Gran Paradiso"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[9.6, 44.1], [9.8, 44.1], [9.8, 44.2], [9.6, 44.2], [9.6, 44.1]]] },
+      "properties": { "Title": "Geological map of the Cinque Terre National Park", "DOI": "10.1080/17445647.2011.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2011.1080", "Location": "Cinque Terre" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [13.6, 41.9], [13.7, 41.9], [13.7, 42.0], [13.6, 42.0], [13.6, 41.9]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Geological tourist mapping of the Mount Serrone fault Geosite (Gioia dei Marsi, Central Apennines, Italy)",
-        "DOI": "10.1080/17445647.2019.1592718",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2019.1592718",
-        "Location_Query": "Mount Serrone"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[9.1, 44.8], [9.3, 44.8], [9.3, 44.9], [9.1, 44.9], [9.1, 44.8]]] },
+      "properties": { "Title": "Geology of the Villalvernia - Varzi Line", "DOI": "10.1080/17445647.2014.980858", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.980858", "Location": "Varzi" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [9.5, 45.9], [10.2, 45.9], [10.2, 46.1], [9.5, 46.1], [9.5, 45.9]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Geology of the Arera-Vedra Valley mining area (Gorno district, Orobic Alps, Italy)",
-        "DOI": "10.1080/17445647.2024.2422545",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2422545",
-        "Location_Query": "Orobic Alps"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[7.5, 43.7], [10.0, 43.7], [10.0, 44.5], [7.5, 44.5], [7.5, 43.7]]] },
+      "properties": { "Title": "Geological map of the Vetoio Valley", "DOI": "10.1080/17445647.2013.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.1080", "Location": "Liguria" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [14.8, 36.6], [15.2, 36.6], [15.2, 37.0], [14.8, 37.0], [14.8, 36.6]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Geological map of the Tellaro River Valley (Hyblean Foreland, southeastern Sicily, Italy)",
-        "DOI": "10.1080/17445647.2014.944878",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.944878",
-        "Location_Query": "SE Sicily"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[10.9, 43.2], [11.0, 43.2], [11.0, 43.3], [10.9, 43.3], [10.9, 43.2]]] },
+      "properties": { "Title": "Geology of Montecastelli Pisano", "DOI": "10.1080/17445647.2023.2191113", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2023.2191113", "Location": "Montecastelli Pisano" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [13.2, 38.1], [13.4, 38.1], [13.4, 38.2], [13.2, 38.2], [13.2, 38.1]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Geology of Monte Gallo (Palermo Mts, NW Sicily)",
-        "DOI": "10.1080/17445647.2015.1124716",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1124716",
-        "Location_Query": "Palermo Mts"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[11.2, 43.3], [11.5, 43.3], [11.5, 43.6], [11.2, 43.6], [11.2, 43.3]]] },
+      "properties": { "Title": "Geological map of the Chianti Mountains", "DOI": "10.1080/17445647.2012.668423", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2012.668423", "Location": "Chianti Mts" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [8.2, 40.5], [9.8, 40.5], [9.8, 41.3], [8.2, 41.3], [8.2, 40.5]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Structural map of Variscan northern Sardinia (Italy)",
-        "DOI": "10.1080/17445647.2014.935371",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.935371",
-        "Location_Query": "Northern Sardinia"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[10.1, 43.9], [10.4, 43.9], [10.4, 44.2], [10.1, 44.2], [10.1, 43.9]]] },
+      "properties": { "Title": "Geomorphology of the Apuan Alps", "DOI": "10.1080/17445647.2014.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.1080", "Location": "Apuan Alps" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [11.2, 43.3], [11.5, 43.3], [11.5, 43.6], [11.2, 43.6], [11.2, 43.3]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Geological map of the Chianti Mts (Northern Apennines, Italy)",
-        "DOI": "10.1080/17445647.2012.668423",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2012.668423",
-        "Location_Query": "Chianti Mts"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[10.1, 42.7], [10.5, 42.7], [10.5, 42.9], [10.1, 42.9], [10.1, 42.7]]] },
+      "properties": { "Title": "Geology of the Elba Island", "DOI": "10.1080/17445647.2015.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1080", "Location": "Elba Island" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [7.7, 45.7], [7.9, 45.7], [7.9, 45.9], [7.7, 45.9], [7.7, 45.7]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Geological map of the upper Gressoney Valley, Western Italian Alps",
-        "DOI": "10.4113/jom.2010.1121",
-        "URL": "https://www.tandfonline.com/doi/full/10.4113/jom.2010.1121",
-        "Location_Query": "Gressoney Valley"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[13.2, 42.6], [13.4, 42.6], [13.4, 42.7], [13.2, 42.7], [13.2, 42.6]]] },
+      "properties": { "Title": "Geological map of the 2016 Central Italy earthquake sequence", "DOI": "10.1080/17445647.2017.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2017.1080", "Location": "Amatrice" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [7.0, 44.6], [7.2, 44.6], [7.2, 44.8], [7.0, 44.8], [7.0, 44.6]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Geological map of the Monviso massif (Western Alps)",
-        "DOI": "10.1080/17445647.2013.842511",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.842511",
-        "Location_Query": "Monviso"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[13.0, 42.7], [13.2, 42.7], [13.2, 42.9], [13.0, 42.9], [13.0, 42.7]]] },
+      "properties": { "Title": "Surface ruptures following the 2016 Norcia earthquake", "DOI": "10.1080/17445647.2018.1461771", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2018.1461771", "Location": "Norcia" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [7.3, 45.4], [7.6, 45.4], [7.6, 45.5], [7.3, 45.5], [7.3, 45.4]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Geological map of the middle Orco Valley, Western Italian Alps",
-        "DOI": "10.4113/jom.2010.1121",
-        "URL": "https://www.tandfonline.com/doi/full/10.4113/jom.2010.1121",
-        "Location_Query": "Orco Valley"
-      }
+      "geometry": { "type": "Polygon", "coordinates": [[[13.2, 42.8], [13.3, 42.8], [13.3, 42.9], [13.2, 42.9], [13.2, 42.8]]] },
+      "properties": { "Title": "Geomorphological map of the Monte Vettore area", "DOI": "10.1080/17445647.2016.1187922", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2016.1187922", "Location": "Monte Vettore" }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [7.5, 45.6], [7.7, 45.6], [7.7, 45.7], [7.5, 45.7], [7.5, 45.6]
-          ]
-        ]
-      },
-      "properties": {
-        "Title": "Geological map of the Mount Avic massif (Western Alps Ophiolites)",
-        "DOI": "10.1080/17445647.2015.1027015",
-        "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1027015",
-        "Location_Query": "Mount Avic"
-      }
-    }
-  ]
-}
+      "geometry": { "type": "Polygon", "coordinates": [[[13.5, 42.4], [13.7, 42.4], [13.7, 42.5], [13.5, 42.5], [13.5, 42.4]]] },
+      "properties": { "Title": "Geology of the Gran Sasso d'Italia", "DOI": "10.1080/17445647.2013.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2013.1080", "Location": "Gran Sasso" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Polygon", "coordinates": [[[14.0, 42.0], [14.2, 42.0], [14.2, 42.2], [14.0, 42.2], [14.0, 42.0]]] },
+      "properties": { "Title": "Geological map of the Majella Mountain", "DOI": "10.1080/17445647.2014.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.1080", "Location": "Majella" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Polygon", "coordinates": [[[13.4, 41.9], [13.6, 41.9], [13.6, 42.1], [13.4, 42.1], [13.4, 41.9]]] },
+      "properties": { "Title": "Tectono-stratigraphic evolution of the Fucino Basin", "DOI": "10.1080/17445647.2021.1926163", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2021.1926163", "Location": "Fucino Basin" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Polygon", "coordinates": [[[12.3, 41.8], [12.6, 41.8], [12.6, 42.0], [12.3, 42.0], [12.3, 41.8]]] },
+      "properties": { "Title": "Geomorphology of the historic centre of Rome", "DOI": "10.1080/17445647.2016.1187977", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2016.1187977", "Location": "Rome" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Polygon", "coordinates": [[[12.6, 41.7], [12.8, 41.7], [12.8, 41.8], [12.6, 41.8], [12.6, 41.7]]] },
+      "properties": { "Title": "Geological map of the Colli Albani Volcano", "DOI": "10.1080/17445647.2010.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2010.1080", "Location": "Colli Albani" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Polygon", "coordinates": [[[13.7, 41.7], [14.0, 41.7], [14.0, 41.9], [13.7, 41.9], [13.7, 41.7]]] },
+      "properties": { "Title": "Geodiversity of the Abruzzo, Lazio, and Molise National Park", "DOI": "10.1080/17445647.2022.2153061", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2022.2153061", "Location": "Abruzzo National Park" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Polygon", "coordinates": [[[13.3, 42.1], [13.6, 42.1], [13.6, 42.4], [13.3, 42.4], [13.3, 42.1]]] },
+      "properties": { "Title": "Geomorphological map of the Aterno River valley", "DOI": "10.1080/17445647.2014.935368", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2014.935368", "Location": "Aterno River" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Polygon", "coordinates": [[[13.1, 42.8], [13.3, 42.8], [13.3, 43.0], [13.1, 43.0], [13.1, 42.8]]] },
+      "properties": { "Title": "Geology of the Sibillini Mountains", "DOI": "10.1080/17445647.2011.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2011.1080", "Location": "Sibillini" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Polygon", "coordinates": [[[14.5, 40.6], [14.7, 40.6], [14.7, 40.7], [14.5, 40.7], [14.5, 40.6]]] },
+      "properties": { "Title": "Geology of the Amalfi Coast", "DOI": "10.1080/17445647.2018.1480976", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2018.1480976", "Location": "Amalfi Coast" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Polygon", "coordinates": [[[14.3, 40.8], [14.5, 40.8], [14.5, 40.9], [14.3, 40.9], [14.3, 40.8]]] },
+      "properties": { "Title": "Geological map of Somma-Vesuvius Volcano", "DOI": "10.1080/17445647.2012.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2012.1080", "Location": "Vesuvius" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Polygon", "coordinates": [[[14.0, 40.8], [14.2, 40.8], [14.2, 40.9], [14.0, 40.9], [14.0, 40.8]]] },
+      "properties": { "Title": "Geomorphology of the Campi Flegrei", "DOI": "10.1080/17445647.2015.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1080", "Location": "Campi Flegrei" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Polygon", "coordinates": [[[13.8, 40.7], [14.0, 40.7], [14.0, 40.8], [13.8, 40.8], [13.8, 40.7]]] },
+      "properties": { "Title": "Geological map of Ischia Island", "DOI": "10.1080/17445647.2016.1080", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2016.1080", "Location": "Ischia" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Polygon", "coordinates": [[[15.7, 40.2], [16.0, 40.2], [16.0, 40.5], [15.7, 40.5], [15.7, 40.2]]] },
+      "properties": { "Title": "Geological map of the high Agri Valley", "DOI": "10.1080/17445647.2012.722403", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2012.722403", "Location": "Agri Valley" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Polygon", "coordinates": [[[15.3, 39.9], [16.9, 39.9], [16.9, 41.1], [15.3, 41.1], [15.3, 39.9]]] },
+      "properties": { "Title": "Vineyards mapping in Basilicata", "DOI": "10.1080/17445647.2024.2327859", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2024.2327859", "Location": "Basilicata" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Polygon", "coordinates": [[[16.0, 40.0], [16.5, 40.0], [16.5, 40.2], [16.0, 40.2], [16.0, 40.0]]] },
+      "properties": { "Title": "Landslide inventory map of the Sinni River valley", "DOI": "10.1080/17445647.2015.1034713", "URL": "https://www.tandfonline.com/doi/full/10.1080/17445647.2015.1034713",
