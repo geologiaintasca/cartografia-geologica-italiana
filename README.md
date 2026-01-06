@@ -5,8 +5,7 @@
 
 Questo repository è un progetto *work-in-progress* che mira a creare un database geografico unificato (GeoJSON) delle risorse cartografiche geologiche italiane. L'obiettivo è aggregare in un'unica mappa interattiva i dati provenienti da istituzioni e ricerca accademica, facilitando la consultazione di risorse oggi distribuite su portali diversi.
 
-[**🗺️ VAI ALLA MAPPA INTERATTIVA**](https://[TUO-NOME-UTENTE].github.io/[NOME-REPO]/)
-
+[**🗺️ VAI ALLA MAPPA INTERATTIVA**](https://umap.openstreetmap.fr/it/map/cartografia-geologica-italiana_1338725)
 ---
 
 ## 📂 Dataset Attuali
