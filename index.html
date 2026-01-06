@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Geological Cartography Hub - Italy</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet-ajax/dist/leaflet.ajax.min.js"></script>
+    <style>
+        body { margin: 0; padding: 0; }
+        #map { width: 100%; height: 100vh; }
+    </style>
+</head>
+<body>
+
+<div id="map"></div>
+
+<script>
+    var map = L.map('map').setView([42.5, 12.5], 6);
+
+    var osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+
+    var styleJoM = { color: "#ff0000", weight: 2, opacity: 0.8, fillOpacity: 0.1 };
+    var styleCARG = { color: "#0000ff", weight: 1, opacity: 0.6, fillOpacity: 0.1, dashArray: '5, 5' };
+
+    function onEachFeature(feature, layer) {
+        if (feature.properties) {
+            layer.bindPopup(
+                "<b>" + feature.properties.Title + "</b><br>" +
+                "Location: " + feature.properties.Location + "<br>" +
+                "<a href='" + feature.properties.URL + "' target='_blank'>Vedi Risorsa</a>"
+            );
+        }
+    }
+
+    // *** QUI È LA MODIFICA IMPORTANTE: AGGIUNTO "dati/" ***
+    var jomLayer = new L.GeoJSON.AJAX("dati/journal_of_maps_italy_top150.geojson", {
+        style: styleJoM,
+        onEachFeature: onEachFeature
+    });
+
+    var cargLayer = new L.GeoJSON.AJAX("dati/carg_italy_GRID_FIXED.geojson", {
+        style: styleCARG,
+        onEachFeature: onEachFeature
+    });
+
+    jomLayer.addTo(map);
+    cargLayer.addTo(map);
+
+    var baseMaps = { "Base OpenStreetMap": osm };
+    var overlayMaps = {
+        "<span style='color:red'>■</span> Journal of Maps (Ricerca)": jomLayer,
+        "<span style='color:blue'>■</span> Progetto CARG (Ufficiale)": cargLayer
+    };
+
+    L.control.layers(baseMaps, overlayMaps, {collapsed: false}).addTo(map);
+</script>
+
+</body>
+</html>
